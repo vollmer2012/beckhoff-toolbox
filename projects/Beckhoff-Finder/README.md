@@ -4,9 +4,9 @@
 
 ## 下载
 
-运行版计划作为独立附件发布在 [Beckhoff Finder V1.01 Release](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/beckhoff-finder-v1.01) 中。发布状态以该页面的实际附件为准。
+运行版已作为独立附件发布在 [Beckhoff Finder V1.01 Release](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/beckhoff-finder-v1.01) 中。
 
-下载文件为 `beckhoff finder V1.01.exe`。GitHub 自动生成的 Source code 压缩包不包含该运行版。
+下载文件为 [`beckhoff.finder.V1.01.exe`](https://github.com/vollmer2012/beckhoff-toolbox/releases/download/beckhoff-finder-v1.01/beckhoff.finder.V1.01.exe)。GitHub 将原始文件名中的空格转换为点号，内容与原件一致。GitHub 自动生成的 Source code 压缩包不包含该运行版。
 
 ## 文件记录
 
@@ -36,4 +36,4 @@
 
 ## 发布状态
 
-2026-10-23：已记录原始文件信息，运行版附件的上传及公开状态以对应 Release 页面为准。
+2026-10-23：V1.01 运行版已公开发布。已通过 GitHub 连接器核对附件大小为 64,487,014 字节，GitHub 返回的 SHA-256 与本地原件一致。
