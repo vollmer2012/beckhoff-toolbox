@@ -7,7 +7,7 @@
 | 项目 | 用途 | 状态 |
 | --- | --- | --- |
 | [TwinCAT2 CE CerDisp](projects/TwinCAT2-CE-CerDisp/README.md) | TwinCAT 2 程序导出：读取网卡信息并尝试启动 CE 端 CerDisp | 用户反馈已在 CX8090、CX5120-0111 上测试；软件版本及测试范围待补充 |
-| [Beckhoff Finder V1.01](projects/Beckhoff-Finder/README.md) | 作者此前发布的 Windows 工具运行版，EXE 通过 Releases 分发 | V1.01 运行版已发布；具体功能与兼容环境待补充 |
+| [Beckhoff Finder](projects/Beckhoff-Finder/README.md) | 作者此前发布的 Windows 工具运行版，EXE 通过 Releases 分发 | V1.01 运行版已发布；具体功能与兼容环境待补充 |
 
 各项目分别记录依赖、使用步骤、安全事项及兼容性。请先阅读对应项目 README；用户反馈的测试记录与维护者独立复测结果分别标明。
 
@@ -29,7 +29,7 @@ CONTRIBUTING.md
   pull_request_template.md
 ```
 
-后续公开项目放入 `projects/<项目名>/`，并在首页索引登记。原始资料放入项目的 `original/`，改进代码可放入 `src/`，额外文档可放入 `docs/`；按实际内容建立目录。
+后续公开项目放入 `projects/<项目名>/`，并在首页索引登记。项目目录和项目名称不带版本号，具体版本通过各项目的 Release 标签和版本记录管理。原始资料放入项目的 `original/`，改进代码可放入 `src/`，额外文档可放入 `docs/`；按实际内容建立目录。
 
 ## 反馈与参与
 
