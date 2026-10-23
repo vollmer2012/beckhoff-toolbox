@@ -1,0 +1,75 @@
+
+
+(* @NESTEDCOMMENTS := 'Yes' *)
+(* @PATH := '' *)
+(* @OBJECTFLAGS := '0, 8' *)
+(* @SYMFILEFLAGS := '2048' *)
+PROGRAM MAIN_SysInfo(*系统信息*)
+VAR
+
+	fbGetAdaptersInfo: 		FB_GetAdaptersInfo;
+	NT_StartProcess_Test: 	NT_StartProcess;
+	NT_StartProcess_HMI: 	NT_StartProcess;
+
+	InstGETCURTASKINDEX	: 	GETCURTASKINDEX;
+
+
+
+
+	btHMIGetNetInfo:	BOOL;(*开始获取信息按钮*)
+	bEnableCerDisp: 	BOOL;(*开始打开远程桌面监控*)
+	bEnableXpHmi: 		BOOL;(*开始打开XP系统的TwinCatHMI*)
+
+	info_CPU_Tem:		INT;(*cpu温度*)
+	info_MB_Tem:		INT;(*主板温度*)
+	info_Ad_Nam1:		STRING(50);(*网卡名称*)
+	info_Ad_Add1:		STRING(15);(*网卡IP地址*)
+	info_Ad_Sub1:		STRING(15);(*网卡子网掩码*)
+	info_Ad_Nam2:		STRING(50);(*网卡名称*)
+	info_Ad_Add2:		STRING(15);(*网卡IP地址*)
+	info_Ad_Sub2:		STRING(15);(*网卡子网掩码*)
+	info_SW_DT:			STRING(15);(*程序最后下载的时间*)
+	info_SW_Version:	STRING(15);(*程序版本号*)
+	info_Pro_Name: 		STRING(32);(*程序名称*)
+	info_sCfImageName:	STRING(50);(*CF卡的版本号*)
+	TOF_Delay: 			TOF;
+
+	sErrorTermial: STRING;
+END_VAR
+(* @END_DECLARATION := '0' *)
+
+fbGetAdaptersInfo(bExecute:=btHMIGetNetInfo);	(*获取网卡的IP地址*)
+
+
+
+
+(*从PC上打开CE系统的选程桌面功能CERDISP*)
+(*说明：长期开启CERDISP功能，会占用CPU资源，利用本程序，可以在需要的时候，从PC开启此功能，用完CE断电重启，该功能又关闭了*)
+NT_StartProcess_Test(
+	NETID:=,
+	PATHSTR:='\windows\CerDisp.exe' ,
+	DIRNAME:='\windows' ,
+	COMNDLINE:= ,
+	START:=bEnableCerDisp ,
+	ERRID=> );
+
+
+TOF_Delay(in:=btHMIGetNetInfo,PT:=T#5S);
+
+IF TOF_Delay.Q THEN
+
+
+	info_Ad_Nam1:=	fbGetAdaptersInfo.arrAdapters[0].sDescription;(*网卡名称*)
+	info_Ad_Add1:=	fbGetAdaptersInfo.arrAdapters[0].sIpAddr;(*网卡IP地址*)
+	info_Ad_Sub1:=	fbGetAdaptersInfo.arrAdapters[0].sSubNet;(*网卡子网掩码*)
+	info_Ad_Nam2:=	fbGetAdaptersInfo.arrAdapters[1].sDescription;(*网卡名称*)
+	info_Ad_Add2:=	fbGetAdaptersInfo.arrAdapters[1].sIpAddr;(*网卡IP地址*)
+	info_Ad_Sub2:=	fbGetAdaptersInfo.arrAdapters[1].sSubNet;(*网卡子网掩码*)
+
+
+	info_Pro_Name:= SystemInfo.projectName;
+
+END_IF
+
+
+END_PROGRAM

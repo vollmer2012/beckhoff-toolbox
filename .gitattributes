@@ -1,0 +1,3 @@
+# Preserve original PLC export bytes during checkout and commit.
+*.EXP -text
+*.exp -text
