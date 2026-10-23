@@ -7,8 +7,8 @@
 | 项目 | 用途 | 状态 |
 | --- | --- | --- |
 | [TwinCAT2 CE CerDisp](projects/TwinCAT2-CE-CerDisp/README.md) | TwinCAT 2 程序导出：读取网卡信息并尝试启动 CE 端 CerDisp | 用户反馈已在 CX8090、CX5120-0111 上测试；软件版本及测试范围待补充 |
-| [Beckhoff Finder](projects/Beckhoff-Finder/README.md) | 作者此前发布的 Windows 工具运行版，EXE 通过 Releases 分发 | V1.01 运行版已发布；具体功能与兼容环境待补充 |
-| [TC3 授权响应文件查看工具](projects/TC3-License-Response-Viewer/README.md) | Windows EXE 运行版，产品元数据名称 TwinCAT_License_UI_Viewer | V1.0 运行版已发布；操作说明和兼容环境待补充 |
+| [Beckhoff Finder](projects/Beckhoff-Finder/README.md) | 作者此前发布的 Windows 工具运行版，EXE 通过 Releases 分发 | V1.01 运行版已发布；用于跨网段快速查找beckhoff控制器 |
+| [TC3 授权响应文件查看工具](projects/TC3-License-Response-Viewer/README.md) | Windows EXE 运行版，产品元数据名称 TwinCAT_License_UI_Viewer | V1.0 运行版已发布；用于快速查看tc3授权响应文件的概括 |
 
 各项目分别记录依赖、使用步骤、安全事项及兼容性。请先阅读对应项目 README；用户反馈的测试记录与维护者独立复测结果分别标明。
 
