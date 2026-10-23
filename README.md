@@ -7,6 +7,7 @@
 | 项目 | 用途 | 状态 |
 | --- | --- | --- |
 | [TwinCAT2 CE CerDisp](projects/TwinCAT2-CE-CerDisp/README.md) | TwinCAT 2 程序导出：读取网卡信息并尝试启动 CE 端 CerDisp | 用户反馈已在 CX8090、CX5120-0111 上测试；软件版本及测试范围待补充 |
+| [Beckhoff Finder V1.01](projects/Beckhoff-Finder/README.md) | 作者此前发布的 Windows 工具运行版，EXE 通过 Releases 分发 | 运行版发布准备中；具体功能与兼容环境待补充 |
 
 各项目分别记录依赖、使用步骤、安全事项及兼容性。请先阅读对应项目 README；用户反馈的测试记录与维护者独立复测结果分别标明。
 
@@ -19,6 +20,9 @@ projects/
     original/
       README.md
       开启CEROMET查看IP.EXP
+  Beckhoff-Finder/
+    README.md
+    SHA256SUMS.txt
 CONTRIBUTING.md
 .github/
   ISSUE_TEMPLATE/
