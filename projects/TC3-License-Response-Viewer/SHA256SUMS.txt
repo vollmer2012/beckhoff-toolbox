@@ -1,1 +1,1 @@
-aca2689edb75b661d7dc1501a9f7b6ca7e0dfd020f79814d235e836b3fdc6ed5  查看TC3授权响应文件V1.0.exe
+aca2689edb75b661d7dc1501a9f7b6ca7e0dfd020f79814d235e836b3fdc6ed5  TC3-License-Response-Viewer-V1.0.exe
