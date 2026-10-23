@@ -8,7 +8,9 @@
 
 当前发布版本：**V1.0**（原文件名中的版本）；EXE 内部产品版本为 `1.0.0`。
 
-[打开 V1.0 Release 页面](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/tc3-license-response-viewer-v1.0)，从 Assets 下载运行版。附件的实际公开状态以该页面为准。自动生成的 Source code 压缩包不包含 EXE 运行版。
+[打开 V1.0 Release 页面](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/tc3-license-response-viewer-v1.0)，从 Assets 下载运行版。
+
+直接下载：[TC3-License-Response-Viewer-V1.0.exe](https://github.com/vollmer2012/beckhoff-toolbox/releases/download/tc3-license-response-viewer-v1.0/TC3-License-Response-Viewer-V1.0.exe)。下载名称采用英文，EXE 内容与中文原文件一致。自动生成的 Source code 压缩包不包含 EXE 运行版。
 
 ## V1.0 文件记录
 
@@ -35,6 +37,8 @@
 
 | 版本 | 状态 | 下载 |
 | --- | --- | --- |
-| V1.0 | 发布准备中 | [Release](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/tc3-license-response-viewer-v1.0) |
+| V1.0 | 2026-10-23 已公开发布 | [Release](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/tc3-license-response-viewer-v1.0) |
 
 项目目录和项目标题不带版本号。每次升级新增独立 Release，标签使用项目名前缀，例如 `tc3-license-response-viewer-v1.0`。同步更新当前版本、文件记录和校验文件，保留旧版本附件和版本记录。
+
+2026-10-23：已核对 GitHub 附件大小和 SHA-256 与本地原文件一致。
