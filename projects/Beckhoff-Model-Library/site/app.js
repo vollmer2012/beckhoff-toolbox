@@ -36,8 +36,9 @@
   $('content-updated').textContent = $('updated').textContent;
   $('content-updated').dateTime = $('updated').dateTime;
   const controllerCount = c.products.filter(p => p.id.startsWith('CX') && p.kind === '基础型号').length;
-  const elCount = c.products.filter(p => p.family === 'EL1xxx').length;
-  $('catalog-count').textContent = `${controllerCount} 个 CX 控制器 · ${elCount} 条 EL1xxx · ${c.products.length} 条记录 · ${c.sources.length} 个来源`;
+  const el1Count = c.products.filter(p => p.family === 'EL1xxx').length;
+  const el2Count = c.products.filter(p => p.family === 'EL2xxx').length;
+  $('catalog-count').textContent = `${controllerCount} 个 CX 控制器 · ${el1Count} 条 EL1xxx · ${el2Count} 条 EL2xxx · ${c.products.length} 条记录 · ${c.sources.length} 个来源`;
   $('issue-count').textContent = c.issues.length;
   $('query').value = state.q;
   function syncURL() {

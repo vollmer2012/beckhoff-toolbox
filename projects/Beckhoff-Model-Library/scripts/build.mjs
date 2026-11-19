@@ -64,5 +64,10 @@ const elLines = ['# EL1xxx 收录清单', '', `资料更新：${data.updated_at 
 for (const p of elProducts) elLines.push(`| ${esc(p.id)} | ${esc(p.kind)} | ${esc(p.name)} | ${esc(Object.entries(p.specs).slice(0,6).map(([k,v]) => `${k}：${v}`).join('；'))} | ${links(p.source_ids)} |`);
 await writeFile(path.join(root,'docs/EL1xxx收录清单.md'),elLines.join('\n')+'\n');
 await copyFile(path.join(root,'docs/EL1xxx收录清单.md'),path.join(root,'dist/EL1xxx收录清单.md'));
+const el2Products = data.products.filter(p => p.family === 'EL2xxx').sort((a,b) => a.id.localeCompare(b.id,'en',{numeric:true}));
+const el2Lines = ['# EL2xxx 收录清单', '', `资料更新：${data.updated_at || data.updated_on}。单条来源核对日期见记录。`, '', '本批以官网 EL/ED2xxx 表格总览明确链接的 71 个 EL2xxx 具体产品页为范围，不包含 ED、ES、ELM、EM、ELX，也不代表全历史型号或全部订货后缀。', '', 'TwinSAFE 条目不构成安全设计或认证验证；last time buy 是页面查阅时状态，实时可购性须另行询价。', '', '| 型号 | 类型 | 名称 | 关键规格 | 产品状态 | 来源 |', '| --- | --- | --- | --- | --- | --- |'];
+for (const p of el2Products) el2Lines.push(`| ${esc(p.id)} | ${esc(p.subcategory || p.kind)} | ${esc(p.name)} | ${esc(Object.entries(p.specs).slice(0,6).map(([k,v]) => `${k}：${v}`).join('；'))} | ${esc(p.lifecycle)} | ${links(p.source_ids)} |`);
+await writeFile(path.join(root,'docs/EL2xxx收录清单.md'),el2Lines.join('\n')+'\n');
+await copyFile(path.join(root,'docs/EL2xxx收录清单.md'),path.join(root,'dist/EL2xxx收录清单.md'));
 await copyFile(path.join(root,'docs/更新记录.md'),path.join(root,'dist/更新记录.md'));
 console.log(`Validated and built: ${data.products.length} records / ${data.sources.length} sources / ${data.relations.length} relations / ${data.issues.length} issue records.`);
