@@ -92,6 +92,10 @@
       const specs = Object.entries(p.specs).slice(0,2).map(([k,v]) => `<span>${e(k)}：${e(v)}</span>`).join('<br>');
       return `<tr class="${p.id === state.selected ? 'selected' : ''}"><td><button type="button" class="model-button" data-select="${e(p.id)}" aria-pressed="${p.id === state.selected}" aria-controls="detail">${e(p.id)}</button><span class="product-name">${e(p.name)}</span><span class="record-tag">${e(p.category)} · ${e(p.kind)}</span></td><td class="spec-snippet">${specs}</td><td>${badge(p.review_state)}<span class="record-tag">${p.source_ids.length} 个来源</span>${p.lifecycle === '产品公告' ? badge(p.lifecycle) : ''}</td></tr>`;
     }).join('');
+    const typed = state.q.trim();
+    $('empty-text').textContent = typed
+      ? `没有与“${typed}”匹配的已收录资料。这个型号或关键词可能尚未收录，不表示该产品不存在、已停产或不兼容。`
+      : '当前筛选下没有已收录资料。未收录不表示产品不存在或不兼容。';
     $('empty').hidden = results.length !== 0;
     document.querySelector('.table-scroll').hidden = results.length === 0;
     $('page-label').textContent = results.length ? `${start+1}–${Math.min(start+pageSize,results.length)} / ${results.length} 条` : '0 条记录';
