@@ -1,12 +1,34 @@
 # beckhoff-toolbox
 
-个人维护的 Beckhoff / TwinCAT 示例、实用工具与使用文档集合。非 Beckhoff 官方项目。
+个人维护的 Beckhoff / TwinCAT 资料索引和实用工具。**非官方，非完整目录。** 官网核对不等于实机验证。
 
-## 项目索引
+## 倍福型号资料库
+
+在线查询：<https://vollmer2012.github.io/beckhoff-toolbox/>
+
+按订货号或中文关键词查看规格简介、官方来源和资料差异。采购、替换和现场使用前，请核对完整订货号、适用版本与官方文件。
+
+![查询 CX5130 的结果。页面标明非官方资料索引](projects/Beckhoff-Model-Library/docs/search-preview.png)
+
+<!-- catalog-coverage:start -->
+已收录 338 条记录、194 个官方来源：部分 CX 控制器 44 个基础型号，存储介质 39 条，操作系统 21 条，EL1xxx 62 条，EL2xxx 71 条。
+尚未覆盖运动控制、伺服、电机、线缆和端子全系列，也不包含 EL3xxx、ED、ES、ELM、EM、ELX、BC/BX，以及未逐项核对的其余控制器和历史型号。这不是完整产品目录。型号规律不能用来判断附件是否兼容。官网核对不等于实机验证。
+<!-- catalog-coverage:end -->
+
+可以先试这三条：
+
+- [CX5130](https://vollmer2012.github.io/beckhoff-toolbox/?q=CX5130)
+- [CFast 40GB](https://vollmer2012.github.io/beckhoff-toolbox/?q=CFast%2040GB)
+- [备用电池](https://vollmer2012.github.io/beckhoff-toolbox/?q=%E5%A4%87%E7%94%A8%E7%94%B5%E6%B1%A0)
+
+没有查到，通常只说明这份资料还没收录，不表示产品不存在或不兼容。型号规律不能用来推断附件是否兼容。需要补充或修正时，请[提交纠错](https://github.com/vollmer2012/beckhoff-toolbox/issues/new?title=%E5%9E%8B%E5%8F%B7%E8%B5%84%E6%96%99%E7%BA%A0%E9%94%99)。
+
+本地构建和字段说明见 [型号资料库](projects/Beckhoff-Model-Library/README.md)。
+
+## 其他项目
 
 | 项目 | 用途 | 状态 |
 | --- | --- | --- |
-| [倍福型号资料库](projects/Beckhoff-Model-Library/README.md) | 型号、控制器、存储介质、系统与附件查询，附官方来源和资料差异 | 查阅预览版：338 条记录、44 个 CX 基础型号、62 条 EL1xxx、71 条 EL2xxx；非完整目录，官网核对不等于实机验证 |
 | [TwinCAT2 CE CerDisp](projects/TwinCAT2-CE-CerDisp/README.md) | TwinCAT 2 程序导出：读取网卡信息并尝试启动 CE 端 CerDisp | 用户反馈已在 CX8090、CX5120-0111 上测试；用于通过plc程序开启ce系统控制器的远程桌面进程 |
 | [Beckhoff Finder](projects/Beckhoff-Finder/README.md) | 作者此前发布的 Windows 工具运行版，EXE 通过 Releases 分发 | V1.01 运行版已发布；用于跨网段快速查找beckhoff控制器 |
 | [TC3 授权响应文件查看工具](projects/TC3-License-Response-Viewer/README.md) | Windows EXE 运行版，产品元数据名称 TwinCAT_License_UI_Viewer | V1.0 运行版已发布；用于快速查看tc3授权响应文件的概括 |
@@ -17,6 +39,7 @@
 
 ```text
 projects/
+  Beckhoff-Model-Library/
   TwinCAT2-CE-CerDisp/
     README.md
     original/

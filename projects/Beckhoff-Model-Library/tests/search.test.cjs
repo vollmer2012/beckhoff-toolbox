@@ -77,3 +77,85 @@ test('容量缩写兼容多词筛选，GHz 处理器频率保持原意',()=>{
   assert.deepEqual(find('CFast 40g',{category:'存储介质'}),['CX2900-0038']);
   assert.ok(find('1.4GHz').includes('CX2020'));
 });
+test('产品状态和资料状态可以直接搜索，否定句里的停产不算命中', () => {
+  assert.deepEqual(new Set(find('服务阶段')), new Set(find('', { lifecycle: '服务阶段' })));
+  const stopped = find('停产');
+  assert.ok(stopped.includes('CX2020'));
+  assert.ok(stopped.includes('EL2022'));
+  assert.ok(!stopped.includes('CX1900-0124'));
+  for (const id of stopped) {
+    const life = catalog.products.find(p => p.id === id).lifecycle;
+    assert.ok(life.includes('服务阶段') || life.includes('最后订购'), id);
+  }
+  assert.ok(find('待核实冲突').includes('EK1100'));
+});
+test('温度不因每条记录的工作温度标签铺开，扩展温度仍然能查到', () => {
+  const results = find('温度');
+  assert.ok(results.includes('CX2900-0038'));
+  assert.ok(results.includes('CX1900-0022'));
+  assert.ok(results.includes('CX1900-0124'));
+  assert.ok(!results.includes('EL1008'));
+  assert.ok(!results.includes('CX5130'));
+  assert.ok(results.length < 40);
+});
+test('短英文词按整词匹配，不把 IO 配到 IoT，也不把 CE 配到无关英文', () => {
+  const io = find('IO');
+  assert.ok(io.includes('EL1008'));
+  assert.ok(!io.includes('C9900-S537'));
+  assert.ok(!io.includes('CX2042'));
+  assert.ok(io.length < 160);
+  const ce = find('CE');
+  assert.ok(ce.includes('CX1020'));
+  assert.ok(ce.includes('CX5010-0110'));
+  assert.ok(!ce.includes('C6030-0080'));
+  assert.ok(!ce.includes('CX2020'));
+  assert.ok(!ce.includes('CX2042'));
+  assert.ok(!ce.includes('CX9020-0100'));
+  assert.ok(ce.length < 40);
+});
+test('型号里的 x 表示一位数字，完整型号仍排在前面', () => {
+  assert.deepEqual(find('CX20x0'), ['CX2020', 'CX2030', 'CX2040']);
+  assert.deepEqual(find('CX20X0'), find('CX20x0'));
+  assert.ok(!find('CX20x0').includes('CX2033'));
+  assert.ok(!find('CX20x0').includes('CX2042'));
+  assert.equal(find('CX2020')[0], 'CX2020');
+  assert.ok(find('EL1xxx').includes('EL1008'));
+});
+test('WinCE 对应资料中的 Windows CE，不把不能使用 CE 或 WEC7 算进去', () => {
+  for (const query of ['WinCE', 'win-ce', 'win ce']) {
+    const results = find(query);
+    assert.ok(results.includes('CX2900-0026'), query);
+    assert.ok(results.includes('CX5010-0110'), query);
+    assert.ok(results.includes('CX1020'), query);
+    assert.ok(!results.includes('CX9020-0100'), query);
+    assert.ok(!results.includes('CX9020-0115'), query);
+  }
+  const wec = find('WEC7');
+  assert.ok(wec.includes('CX9020-0115'));
+  assert.ok(wec.includes('CX5130'));
+  assert.ok(!find('40GB').includes('CX5130'));
+});
+test('空结果说明型号可能尚未收录，并保留提交纠错入口', () => {
+  const html = fs.readFileSync(path.join(__dirname, '../site/index.html'), 'utf8');
+  const app = fs.readFileSync(path.join(__dirname, '../site/app.js'), 'utf8');
+  assert.match(html, /id="empty-text"/);
+  assert.match(html, /提交纠错/);
+  assert.match(html, /issues\/new\?title=型号资料纠错/);
+  assert.match(app, /可能尚未收录/);
+  assert.match(app, /不表示该产品不存在/);
+});
+test('说明页的收录数字与目录一致，并给出可打开的示例查询', () => {
+  const { coverageBlock } = require('../src/coverage.cjs');
+  const block = coverageBlock(catalog);
+  for (const file of [path.join(__dirname, '../README.md'), path.join(__dirname, '../../../README.md')]) {
+    assert.ok(fs.readFileSync(file, 'utf8').includes(block), file);
+  }
+  const root = fs.readFileSync(path.join(__dirname, '../../../README.md'), 'utf8');
+  assert.match(root, /https:\/\/vollmer2012\.github\.io\/beckhoff-toolbox\//);
+  assert.match(root, /q=CX5130/);
+  assert.match(root, /CFast%2040GB/);
+  assert.match(root, /%E5%A4%87%E7%94%A8%E7%94%B5%E6%B1%A0/);
+  assert.match(root, /非官方/);
+  assert.match(root, /非完整目录/);
+  assert.match(root, /官网核对不等于实机验证/);
+});

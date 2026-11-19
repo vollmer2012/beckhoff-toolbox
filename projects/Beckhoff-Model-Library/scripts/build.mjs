@@ -4,6 +4,7 @@ import path from 'node:path';
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const { validate } = require('../src/catalog.cjs');
+const { coverageBlock } = require('../src/coverage.cjs');
 const root = fileURLToPath(new URL('../', import.meta.url));
 const data = JSON.parse(await readFile(path.join(root, 'data/catalog.json'), 'utf8'));
 const errors = validate(data);
@@ -70,4 +71,13 @@ for (const p of el2Products) el2Lines.push(`| ${esc(p.id)} | ${esc(p.subcategory
 await writeFile(path.join(root,'docs/EL2xxx收录清单.md'),el2Lines.join('\n')+'\n');
 await copyFile(path.join(root,'docs/EL2xxx收录清单.md'),path.join(root,'dist/EL2xxx收录清单.md'));
 await copyFile(path.join(root,'docs/更新记录.md'),path.join(root,'dist/更新记录.md'));
+const start = '<!-- catalog-coverage:start -->';
+const end = '<!-- catalog-coverage:end -->';
+const block = start + '\n' + coverageBlock(data) + '\n' + end;
+for (const file of [path.join(root, 'README.md'), path.join(root, '../..', 'README.md')]) {
+  const current = await readFile(file, 'utf8');
+  if (!current.includes(start) || !current.includes(end)) throw new Error('缺少收录范围标记：' + file);
+  const next = current.replace(new RegExp(start + '[\\s\\S]*?' + end), block);
+  if (next !== current) await writeFile(file, next);
+}
 console.log(`Validated and built: ${data.products.length} records / ${data.sources.length} sources / ${data.relations.length} relations / ${data.issues.length} issue records.`);
