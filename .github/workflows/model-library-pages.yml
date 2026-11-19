@@ -1,0 +1,48 @@
+name: 型号资料库网页
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'projects/Beckhoff-Model-Library/**'
+      - '.github/workflows/model-library-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: model-library-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: projects/Beckhoff-Model-Library
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm test
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: projects/Beckhoff-Model-Library/dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+      - name: 部署网页
+        id: deployment
+        uses: actions/deploy-pages@v4

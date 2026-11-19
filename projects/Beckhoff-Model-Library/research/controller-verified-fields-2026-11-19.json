@@ -1,0 +1,714 @@
+[
+  {
+    "id": "CX5120",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5100-intel-atom-r/cx5120.html",
+    "fields": {
+      "Processor": "Intel Atom® E3815, 1.46 GHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for CFast card and microSD card, cards not included",
+      "Main memory": "2 GB DDR3 RAM (not expandable)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-I, 4 x USB 2.0, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Windows Embedded Compact 7, Windows Embedded Standard 7, Windows 10 IoT Enterprise 2016 LTSB, Windows 10 IoT Enterprise 2019 LTSC, Windows 10 IoT Enterprise 2021 LTSC, TwinCAT/BSD",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX5330",
+    "title": "Embedded PC with Intel Atom® E3815"
+  },
+  {
+    "id": "CX5140",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5100-intel-atom-r/cx5140.html",
+    "fields": {
+      "Processor": "Intel Atom® E3845, 1.91 GHz",
+      "Number of cores": "4",
+      "Flash memory": "slot for CFast card and microSD card, cards not included",
+      "Main memory": "4 GB DDR3 RAM (not expandable)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-I, 4 x USB 2.0, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Windows Embedded Compact 7, Windows Embedded Standard 7, Windows 10 IoT Enterprise 2016 LTSB, Windows 10 IoT Enterprise 2019 LTSC, Windows 10 IoT Enterprise 2021 LTSC, TwinCAT/BSD",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX5340",
+    "title": "Embedded PC with Intel Atom® E3845"
+  },
+  {
+    "id": "CX5230",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx5230.html",
+    "fields": {
+      "Processor": "Intel Atom® x5-E3930, 1.3 GHz",
+      "Number of cores": "2",
+      "Flash memory": "slot for CFast card and microSD card, cards not included",
+      "Main memory": "4 GB DDR4 RAM (internal, not expandable)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-D, 4 x USB 3.0, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Windows 10 IoT Enterprise 2019 LTSC, 64 bit, Windows 10 IoT Enterprise 2021 LTSC, TwinCAT/BSD",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%), electrically isolated",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Intel Atom® x5-E3930"
+  },
+  {
+    "id": "CX5240",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx5240.html",
+    "fields": {
+      "Processor": "Intel Atom® x5-E3940, 1.6 GHz",
+      "Number of cores": "4",
+      "Flash memory": "slot for CFast card and microSD card, cards not included",
+      "Main memory": "8 GB DDR4 RAM (internal, not expandable)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-D, 4 x USB 3.0, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Windows 10 IoT Enterprise 2019 LTSC, 64 bit, Windows 10 IoT Enterprise 2021 LTSC, TwinCAT/BSD",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%), electrically isolated",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Intel Atom® x5-E3940"
+  },
+  {
+    "id": "CX5330",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5300-intel-atom-r-x6/cx5330.html",
+    "fields": {
+      "Processor": "Intel Atom® x6214RE, 1.4 GHz",
+      "Number of cores": "2",
+      "Flash memory": "slot for CFast card and microSD card, cards not included",
+      "Main memory": "4 GB LPDDR4 RAM (expandable ex factory to 8 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000/2500 Mbit/s, 1 x DisplayPort, 4 x USB 3.1, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Windows 10 IoT Enterprise 2021 LTSC, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD, Beckhoff RT Linux®",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%), electrically isolated",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Intel Atom® x6214RE"
+  },
+  {
+    "id": "CX5340",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5300-intel-atom-r-x6/cx5340.html",
+    "fields": {
+      "Processor": "Intel Atom® x6425RE, 1.9 GHz",
+      "Number of cores": "4",
+      "Flash memory": "slot for CFast card and microSD card, cards not included",
+      "Main memory": "8 GB LPDDR4 RAM (expandable ex factory to 16 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000/2500 Mbit/s, 1 x DisplayPort, 4 x USB 3.1, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Windows 10 IoT Enterprise 2021 LTSC, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD, Beckhoff RT Linux®",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%), electrically isolated",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Intel Atom® x6425RE"
+  },
+  {
+    "id": "CX5620",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5600-amd-ryzen/cx5620.html",
+    "fields": {
+      "Processor": "AMD Ryzen™ R1102G, 1.2 GHz",
+      "Number of cores": "2",
+      "Flash memory": "slot for M.2 SSD (SATA) and microSD card (storage media not included)",
+      "Main memory": "4 GB DDR4 RAM",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-D, 4 x USB 3.0, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Windows 10 IoT Enterprise 2019 LTSC, Windows 10 IoT Enterprise 2021 LTSC, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD, Beckhoff RT Linux®",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%), electrically isolated",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with AMD Ryzen™ R1102G"
+  },
+  {
+    "id": "CX5630",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5600-amd-ryzen/cx5630.html",
+    "fields": {
+      "Processor": "AMD Ryzen™ R1505G, 2.0 GHz",
+      "Number of cores": "2",
+      "Flash memory": "slot for M.2 SSD (SATA) and microSD card (storage media not included)",
+      "Main memory": "8 GB DDR4 RAM",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-D, 4 x USB 3.0, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Windows 10 IoT Enterprise 2019 LTSC, Windows 10 IoT Enterprise 2021 LTSC, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD, Beckhoff RT Linux®",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%), electrically isolated",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with AMD Ryzen™ R1505G"
+  },
+  {
+    "id": "CX9240",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx9240-arm-r-cortex-r-a53/cx9240.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-A53, 1.2 GHz",
+      "Number of cores": "4",
+      "Flash memory": "slot for microSD card, card not included (requires a microSD card with a minimum capacity of 16 GB)",
+      "Main memory": "2 GB LPDDR4 RAM (not expandable)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DisplayPort, 4 x USB 3.0, 1 x optional interface",
+      "Cooling": "passive",
+      "Operating system": "Beckhoff RT Linux®",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%), electrically isolated"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Arm® Cortex®-A53"
+  },
+  {
+    "id": "CX2033",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2033.html",
+    "fields": {
+      "Processor": "AMD Ryzen™ V1202B 2.3 GHz",
+      "Number of cores": "2",
+      "Flash memory": "slot for CFast card, card not included",
+      "Main memory": "8 GB DDR4 RAM (expandable ex factory to 16 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-D, 4 x USB 3.2 Gen. 2, 1 x optional interface",
+      "Cooling": "passive, optionally with active cooling ex factory",
+      "Operating system": "Windows 10 IoT Enterprise 2019 LTSC, Windows 10 IoT Enterprise 2021 LTSC, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD, Beckhoff RT Linux®",
+      "I/O connection": "via power supply module (E-bus or K-bus, automatic recognition)",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "NOVRAM": "128 kB",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with AMD Ryzen™ V1202B"
+  },
+  {
+    "id": "CX2043",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2043.html",
+    "fields": {
+      "Processor": "AMD Ryzen™ V1807B 3.35 GHz",
+      "Number of cores": "4",
+      "Flash memory": "slot for CFast card, card not included",
+      "Main memory": "8 GB DDR4 RAM (expandable ex factory to 32 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-D, 4 x USB 3.2 Gen. 2, 1 x optional interface",
+      "Cooling": "integrated fan with ball bearings and speed monitoring",
+      "Operating system": "Windows 10 IoT Enterprise 2019 LTSC, Windows 10 IoT Enterprise 2021 LTSC, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD, Beckhoff RT Linux®",
+      "I/O connection": "via power supply module (E-bus or K-bus, automatic recognition)",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "NOVRAM": "128 kB",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with AMD Ryzen™ V1807B"
+  },
+  {
+    "id": "CX2042",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x2-intel-r-xeon-r-d/cx2042.html",
+    "fields": {
+      "Processor": "Intel® Xeon® D-1527 2.2 GHz",
+      "Number of cores": "4",
+      "Flash memory": "slot for CFast card, card not included",
+      "Main memory": "8 GB DDR4 RAM (expandable ex factory to 64 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-I, 4 x USB 3.0, 1 x optional interface",
+      "Cooling": "integrated fan with ball bearings and speed monitoring",
+      "Operating system": "Windows 10 IoT Enterprise, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD",
+      "I/O connection": "via power supply module (E-bus or K-bus, automatic recognition)",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "NOVRAM": "128 kB",
+      "Operating temperature": "-25…+50°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Intel® Xeon® D-1527"
+  },
+  {
+    "id": "CX2062",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x2-intel-r-xeon-r-d/cx2062.html",
+    "fields": {
+      "Processor": "Intel® Xeon® D-1548 2.0 GHz",
+      "Number of cores": "8",
+      "Flash memory": "slot for CFast card, card not included",
+      "Main memory": "8 GB DDR4 RAM (expandable ex factory to 64 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-I, 4 x USB 3.0, 1 x optional interface",
+      "Cooling": "integrated fan with ball bearings and speed monitoring",
+      "Operating system": "Windows 10 IoT Enterprise, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD",
+      "I/O connection": "via power supply module (E-bus or K-bus, automatic recognition)",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "NOVRAM": "128 kB",
+      "Operating temperature": "-25…+50°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Intel® Xeon® D-1548"
+  },
+  {
+    "id": "CX2072",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x2-intel-r-xeon-r-d/cx2072.html",
+    "fields": {
+      "Processor": "Intel® Xeon® D-1567 2.1 GHz",
+      "Number of cores": "12",
+      "Flash memory": "slot for CFast card, card not included",
+      "Main memory": "8 GB DDR4 RAM (expandable ex factory to 64 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-I, 4 x USB 3.0, 1 x optional interface",
+      "Cooling": "integrated fan with ball bearings and speed monitoring",
+      "Operating system": "Windows 10 IoT Enterprise, Windows 11 IoT Enterprise 2024 LTSC, TwinCAT/BSD",
+      "I/O connection": "via power supply module (E-bus or K-bus, automatic recognition)",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "NOVRAM": "128 kB",
+      "Operating temperature": "-25…+50°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Intel® Xeon® D-1567"
+  },
+  {
+    "id": "CX2020",
+    "url": "https://www.beckhoff.com/en-ca/support/service-products/ipc-service-products/cx2020.html",
+    "fields": {
+      "Processor": "Intel® Celeron® 827E 1.4 GHz",
+      "Number of cores": "1",
+      "Flash memory": "20 GB or 40 GB CFast flash card (depending on the operating system), optionally extendable",
+      "Main memory": "2 GB DDR3 RAM (expandable ex factory to 4 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-I, 4 x USB 2.0, 1 x optional interface",
+      "Cooling": "passive, optionally with active cooling ex factory",
+      "Operating system": "Windows Embedded Compact 7, Windows Embedded Standard 7, Windows 10 IoT Enterprise 2016 LTSB, TwinCAT/BSD",
+      "I/O connection": "via power supply module (E-bus or K-bus, automatic recognition)",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "NOVRAM": "128 kB",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "service phase | recommended alternative: CX2033",
+    "title": "Basic CPU module (service phase)"
+  },
+  {
+    "id": "CX2040",
+    "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx2040.html",
+    "fields": {
+      "Processor": "Intel® Core™ i7 2715QE 2.1 GHz",
+      "Number of cores": "4",
+      "Flash memory": "20 GB or 40 GB CFast flash card (depending on the operating system), optionally extendable",
+      "Main memory": "4 GB DDR3 RAM (not expandable)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-I, 4 x USB 2.0, 1 x optional interface",
+      "Cooling": "integrated fan with ball bearings and speed monitoring",
+      "Operating system": "Windows Embedded Compact 7 (TwinCAT 3 supports only one CPU core), Windows Embedded Standard 7, Windows 10 IoT Enterprise 2016 LTSB, TwinCAT/BSD",
+      "I/O connection": "via power supply module (E-bus or K-bus, automatic recognition)",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "NOVRAM": "128 kB",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "service phase | recommended alternative: CX2043",
+    "title": "Basic CPU module (service phase)"
+  },
+  {
+    "id": "CX2030",
+    "url": "https://www.beckhoff.com/en-us/support/service-products/ipc-service-products/cx2030.html",
+    "fields": {
+      "Processor": "Intel® Core™ i7 2610UE 1.5 GHz",
+      "Number of cores": "2",
+      "Flash memory": "20 GB or 40 GB CFast flash card (depending on the operating system), optionally extendable",
+      "Main memory": "2 GB DDR3 RAM (expandable ex factory to 4 GB)",
+      "Interfaces": "2 x RJ45 10/100/1000 Mbit/s, 1 x DVI-I, 4 x USB 2.0, 1 x optional interface",
+      "Cooling": "passive, optionally with active cooling ex factory",
+      "Operating system": "Windows Embedded Compact 7 (TwinCAT 3 supports only one CPU core), Windows Embedded Standard 7, Windows 10 IoT Enterprise 2016 LTSB, TwinCAT/BSD",
+      "I/O connection": "via power supply module (E-bus or K-bus, automatic recognition)",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "NOVRAM": "128 kB",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "service phase | recommended alternative: CX2033",
+    "title": "Basic CPU module (service phase)"
+  },
+  {
+    "id": "CX1030",
+    "url": "https://www.beckhoff.com/en-gb/support/service-products/ipc-service-products/cx1030.html",
+    "fields": {
+      "Processor": "Intel® Pentium® M, 1.8 GHz clock frequency",
+      "Number of cores": "1",
+      "Flash memory": "slot for CompactFlash® card, 128 MB included (expandable),",
+      "Main memory": "256 MB DDR RAM (expandable ex factory to 1 GB)",
+      "Interfaces": "2 x RJ45 10/100 Mbit/s (internal switch)",
+      "Cooling": "cooling module + fan cartridge featuring speed control with double ball bearing fans, easily replaceable",
+      "Operating system": "Windows Embedded CE 6, Windows Embedded Standard 2009",
+      "I/O connection": "via power supply module (E-bus, K-bus, K-bus/IP-Link)",
+      "Power supply": "via system bus (through CX1100-0012 [K-bus], CX1100-0013 [K-bus, IP-Link], CX1100-014 [E-bus] power supply module)",
+      "Operating temperature": "0…50°C"
+    },
+    "status": "service phase | recommended alternative: CX2033, CX2043",
+    "title": "Basic CPU module (service phase)"
+  },
+  {
+    "id": "CX1020",
+    "url": "https://www.beckhoff.com/en-us/support/service-products/ipc-service-products/cx1020.html",
+    "fields": {
+      "Processor": "Intel® Celeron® M ULV, 1 GHz clock frequency",
+      "Number of cores": "1",
+      "Flash memory": "slot for CompactFlash® card, 128 MB included (expandable),",
+      "Main memory": "256 MB DDR RAM (expandable ex factory to 1 GB)",
+      "Interfaces": "2 x RJ45 10/100 Mbit/s (internal switch)",
+      "Cooling": "passive, optionally with active cooling ex factory",
+      "Operating system": "Windows Embedded CE 6, Windows Embedded Standard 2009",
+      "I/O connection": "via power supply module (E-bus, K-bus, K-bus/IP-Link)",
+      "Power supply": "via system bus (through CX1100-xxxx power supply modules)",
+      "Operating temperature": "0…50°C"
+    },
+    "status": "service phase | recommended alternative: CX2033, CX2043",
+    "title": "Basic CPU module (service phase)"
+  },
+  {
+    "id": "CX8210",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8200-arm-r-cortex-r-a53/cx8210.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-A53, 1.2 GHz",
+      "Number of cores": "2",
+      "Flash memory": "slot for microSD card, card not included (requires a microSD card with a minimum capacity of 16 GB)",
+      "Main memory": "1 GB LPDDR4 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100/1000 Mbit/s, 1 x USB 3.0, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "EtherCAT Slave IN and OUT (2 x RJ45)",
+      "Operating system": "Beckhoff RT Linux®",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Arm® Cortex®-A53 and EtherCAT slave"
+  },
+  {
+    "id": "CX8280",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8200-arm-r-cortex-r-a53/cx8280.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-A53, 1.2 GHz",
+      "Number of cores": "2",
+      "Flash memory": "slot for microSD card, card not included (requires a microSD card with a minimum capacity of 16 GB)",
+      "Main memory": "1 GB LPDDR4 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100/1000 Mbit/s, 1 x USB 3.0, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "D-sub socket, 9-pin, 1 x RS232, 1 x RS485",
+      "Operating system": "Beckhoff RT Linux®",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "",
+    "title": "Embedded PC with Arm® Cortex®-A53 and RS232/RS485"
+  },
+  {
+    "id": "CX8290",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8200-arm-r-cortex-r-a53/cx8290.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-A53, 1.2 GHz",
+      "Number of cores": "2",
+      "Flash memory": "slot for microSD card, card not included (requires a microSD card with a minimum capacity of 16 GB)",
+      "Main memory": "1 GB LPDDR4 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100/1000 Mbit/s, 1 x USB 3.0, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "2 x Ethernet RJ45 (switched, 10/100/1000 Mbit/s), optionally PROFINET (TF627x), EtherNet/IP™ (TF628x), BACnet/IP (TF8020)",
+      "Operating system": "Beckhoff RT Linux®",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Arm® Cortex®-A53 and 2-port Ethernet switch"
+  },
+  {
+    "id": "CX8110",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8100-arm-r-cortex-r-a9/cx8110.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-A9, 800 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "512 MB DDR3 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "EtherCAT IN and OUT (2 x RJ45)"
+    },
+    "status": "",
+    "title": "Embedded PC with Arm® Cortex®-A9 and EtherCAT slave"
+  },
+  {
+    "id": "CX8180",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8100-arm-r-cortex-r-a9/cx8180.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-A9, 800 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "512 MB DDR3 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "D-sub socket, 9-pin, 1 x RS232, 1 x RS485"
+    },
+    "status": "",
+    "title": "Embedded PC with Arm® Cortex®-A9 and RS232/RS485"
+  },
+  {
+    "id": "CX8190",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8100-arm-r-cortex-r-a9/cx8190.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-A9, 800 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "512 MB DDR3 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "2 x RJ45 (switched)",
+      "Operating system": "Windows Embedded Compact 7",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "-25…+60°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8290",
+    "title": "Embedded PC with Arm® Cortex®-A9 and 2-port Ethernet switch"
+  },
+  {
+    "id": "CX8191",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8100-arm-r-cortex-r-a9/cx8191.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-A9, 800 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "512 MB DDR3 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "2 x RJ45 (switched)",
+      "Operating system": "Windows Embedded Compact 7",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8290",
+    "title": "Embedded PC with Arm® Cortex®-A9 and BACnet/IP"
+  },
+  {
+    "id": "CX8080",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8080.html",
+    "fields": {
+      "Processor": "Arm9™, 400 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "64 MB DDR2 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB device (behind the front flap), 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "D-sub socket, 9-pin, 1 x RS232, 1 x RS485",
+      "Operating system": "Windows Embedded CE 6",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "0…55°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8280",
+    "title": "Embedded PC with Arm9™ and RS232/RS485"
+  },
+  {
+    "id": "CX7050",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx7000-arm-r-cortex-r/cx7050.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-M7, 480 MHz",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "32 MB SDR (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB, 1 x bus interface",
+      "Number of cores": "1",
+      "NOVRAM": "4 kB",
+      "Cooling": "passive",
+      "Bus interface": "D-sub connector, 9-pin, 1 x CANopen commander (master), CAN 2.0A/2.0B",
+      "Operating system": "TwinCAT/RTOS",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Arm® Cortex®-M7, CANopen commander (master) and integrated I/Os"
+  },
+  {
+    "id": "CX8051",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8051.html",
+    "fields": {
+      "Processor": "Arm9™, 400 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "64 MB DDR2 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB device (behind the front flap), 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "D-sub connector, 9-pin according to CANopen specification, galvanically decoupled",
+      "Operating system": "Windows Embedded CE 6",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "0…55°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8200",
+    "title": "Embedded PC with Arm9™ and CANopen slave"
+  },
+  {
+    "id": "CX8010",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8010.html",
+    "fields": {
+      "Processor": "Arm9™, 400 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "64 MB DDR2 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB device (behind the front flap), 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "EtherCAT IN and OUT (2 x RJ45)",
+      "Operating system": "Windows Embedded CE 6",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "0…55°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8210",
+    "title": "Embedded PC with Arm9™ and EtherCAT slave"
+  },
+  {
+    "id": "CX8031",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8031.html",
+    "fields": {
+      "Processor": "Arm9™, 400 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "64 MB DDR2 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB device (behind the front flap), 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "1 x D-sub 9-pin socket with shielding",
+      "Operating system": "Windows Embedded CE 6",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "0…55°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8200",
+    "title": "Embedded PC with Arm9™ and PROFIBUS slave"
+  },
+  {
+    "id": "CX8090",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8090.html",
+    "fields": {
+      "Processor": "Arm9™, 400 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "64 MB DDR2 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB device (behind the front flap), 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "2 x RJ45 (switched)",
+      "Operating system": "Windows Embedded CE 6",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "0…55°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8290",
+    "title": "Embedded PC with Arm9™ and 2-port Ethernet switch"
+  },
+  {
+    "id": "CX8091",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8091.html",
+    "fields": {
+      "Processor": "Arm9™, 400 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "64 MB DDR2 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB device (behind the front flap), 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "2 x RJ45 (switched)",
+      "Operating system": "Windows Embedded CE 6",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "0…55°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8290",
+    "title": "Embedded PC with Arm9™ and BACnet/IP or OPC UA"
+  },
+  {
+    "id": "CX8093",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8093.html",
+    "fields": {
+      "Processor": "Arm9™, 400 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "64 MB DDR2 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB device (behind the front flap), 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "2 x RJ45 (switched)",
+      "Operating system": "Windows Embedded CE 6",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "0…55°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8290",
+    "title": "Embedded PC with Arm9™ and PROFINET device"
+  },
+  {
+    "id": "CX8095",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8095.html",
+    "fields": {
+      "Processor": "Arm9™, 400 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "64 MB DDR2 RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB device (behind the front flap), 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "2 x RJ45 (switched)",
+      "Operating system": "Windows Embedded CE 6",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)",
+      "Operating temperature": "0…55°C"
+    },
+    "status": "regular delivery (not recommended for new projects) | recommended alternative: CX8290",
+    "title": "Embedded PC with Arm9™ and EtherNet/IP™ adapter"
+  },
+  {
+    "id": "CX7031",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx7000-arm-r-cortex-r/cx7031.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-M7, 480 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "32 MB SDR (not expandable)",
+      "NOVRAM": "4 kB",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "D-sub socket, 9-pin, 1 x PROFIBUS slave",
+      "Operating system": "TwinCAT/RTOS",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Arm® Cortex®-M7, PROFIBUS slave and integrated I/Os"
+  },
+  {
+    "id": "CX7051",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx7000-arm-r-cortex-r/cx7051.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-M7, 480 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "32 MB SDR (not expandable)",
+      "NOVRAM": "4 kB",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "D-sub connector, 9-pin, 1 x CANopen responder (slave)",
+      "Operating system": "TwinCAT/RTOS",
+      "I/O connection": "E-bus or K-bus, automatic recognition",
+      "Power supply": "24 V DC (-15%/+20%)"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Arm® Cortex®-M7, CANopen responder (slave) and integrated I/Os"
+  },
+  {
+    "id": "CX7080",
+    "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx7000-arm-r-cortex-r/cx7080.html",
+    "fields": {
+      "Processor": "Arm® Cortex®-M7, 480 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for microSD card, 512 MB included (optionally expandable)",
+      "Main memory": "32 MB SDR (not expandable)",
+      "NOVRAM": "4 kB",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s, 1 x USB, 1 x bus interface",
+      "Cooling": "passive",
+      "Bus interface": "D-sub socket, 9-pin, 1 x RS232, 1 x RS485"
+    },
+    "status": "regular delivery",
+    "title": "Embedded PC with Arm® Cortex®-M7, RS232/RS485 and integrated I/Os"
+  },
+  {
+    "id": "CX1010",
+    "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1010.html",
+    "fields": {
+      "Processor": "compatible with Intel® Pentium® MMX, clock frequency 500 MHz",
+      "Number of cores": "1",
+      "Flash memory": "slot for CompactFlash® card, 128 MB included (expandable),",
+      "Main memory": "256 MB DDR RAM (not expandable)",
+      "Interfaces": "1 x RJ45 10/100 Mbit/s",
+      "Cooling": "passive"
+    },
+    "status": "service phase | recommended alternative: CX2033, CX2043",
+    "title": "Basic CPU module (service phase)"
+  }
+]

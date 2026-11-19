@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="倍福型号、存储介质、操作系统和配套选件查询，保留官方来源及资料差异。">
+  <title>倍福型号资料库</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23b5202b'/%3E%3Cpath d='M9 9h14v4H13v3h8v4h-8v3H9z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="catalog.js"></script>
+  <script defer src="search.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到查询内容</a>
+  <header class="topbar">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">B</span><span>倍福型号资料库<small>个人整理 · 官方资料索引</small></span></a>
+    <nav class="topnav" aria-label="主要页面">
+      <button type="button" data-tab="search" aria-current="page">型号查询</button>
+      <button type="button" data-tab="issues">资料差异 <span id="issue-count"></span></button>
+      <button type="button" data-tab="sources">官方来源</button>
+      <button type="button" data-tab="help">维护说明</button>
+    </nav>
+    <span class="edition">查阅预览版</span>
+  </header>
+  <div class="workspace">
+    <aside class="sidebar" aria-label="资料分类">
+      <h2>产品分类</h2>
+      <nav id="categories" aria-label="按产品类别筛选"></nav>
+      <div class="sidebar-note"><strong>查得到，也查得回</strong><p>每条资料保留官方来源。官网核对不等于实机兼容验证。</p><a href="型号快查.md" download>下载 Markdown 快查</a><br><a href="控制器收录清单.md" download>下载控制器清单</a></div>
+      <div class="update-note">资料查阅日期<br><time id="updated"></time><br><span>非实时库存与全量目录</span></div>
+    </aside>
+    <main id="main">
+      <p class="notice">非官方资料索引，持续补充与修订，可能存在遗漏或错误。官网核对不等于实机验证；采购、替换及现场使用前，请核对完整订货号、适用版本与官方文件。<a href="https://github.com/vollmer2012/beckhoff-toolbox/issues/new?title=型号资料纠错" target="_blank" rel="noopener noreferrer">提交纠错</a></p>
+      <section id="search-view" aria-labelledby="search-title">
+        <div class="page-heading"><div><h1 id="search-title">型号查询</h1><p>从订货号查规格，从主机查配套。</p></div><span id="catalog-count" class="meta"></span></div>
+        <form id="search-form" role="search">
+          <label class="sr-only" for="query">搜索型号、中文名称或关键规格</label>
+          <div class="searchbox"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><input id="query" type="search" autocomplete="off" placeholder="搜索型号、中文名称或规格，例如 CFast 40GB" aria-describedby="search-hint"><button type="submit">查询</button></div>
+          <div class="search-hints"><span id="search-hint">支持部分型号、多词组合与中文名称</span><div class="quick-queries"><span>试试</span><button type="button" data-query="CX5130">CX5130</button><button type="button" data-query="CFast 40GB">CFast 40GB</button><button type="button" data-query="备用电池">备用电池</button></div></div>
+          <div class="filters">
+            <label>主机 / 系列范围<select id="host"><option value="">全部主机与系列</option></select></label>
+            <label>存储介质<select id="medium"><option value="">全部介质</option></select></label>
+            <label>资料状态<select id="review"><option value="">全部资料状态</option></select></label>
+            <label>产品状态<select id="lifecycle"><option value="">全部产品状态</option></select></label>
+          </div>
+        </form>
+        <div class="results-heading"><div><h2 id="category-title">全部型号</h2><span id="result-count" role="status" aria-live="polite"></span></div><button type="button" id="reset" class="text-button">清空条件</button></div>
+        <p id="scope-note" class="scope-note" hidden></p>
+        <div class="results-layout">
+          <div class="results-main">
+            <div class="table-scroll"><table class="results-table"><caption class="sr-only">型号查询结果，点击型号查看详细规格和证据来源</caption><thead><tr><th scope="col">型号 / 名称</th><th scope="col">关键规格</th><th scope="col">资料状态</th></tr></thead><tbody id="results"></tbody></table></div>
+            <div id="empty" class="empty-state" hidden><h3>没有找到匹配资料</h3><p>试试缩短型号或减少筛选条件。没有收录不表示产品不存在或不支持。</p><button type="button" data-reset>清空查询条件</button></div>
+            <div class="pagination"><span id="page-label"></span><div><button type="button" id="previous">上一页</button><button type="button" id="next">下一页</button></div></div>
+          </div>
+          <aside id="detail" class="detail" aria-label="型号详情"></aside>
+        </div>
+      </section>
+      <section id="issues-view" hidden aria-labelledby="issues-title"><div class="page-heading"><div><h1 id="issues-title">资料差异</h1><p>保留各自的证据，区分信息详略与明确矛盾。</p></div></div><div id="issues-list"></div></section>
+      <section id="sources-view" hidden aria-labelledby="sources-title"><div class="page-heading"><div><h1 id="sources-title">官方来源</h1><p>记录具体页面、地区版本、查阅日期及取值区段。</p></div></div><p class="notice">本次主要核对在线选型页。未核实的发布时间、修订版本及 PDF 页码留空；查阅日期不代表资料发布日期。</p><div id="sources-list"></div></section>
+      <section id="help-view" hidden aria-labelledby="help-title"><div class="page-heading"><div><h1 id="help-title">维护说明</h1><p>维护一份数据，同时更新网页与 Markdown。</p></div></div><div class="help-content"><h2>如何查找</h2><p>完整型号优先显示；部分型号和多个关键词可组合搜索。主机筛选只显示有明确来源的配套项、主机本身及已收录配置。系列级范围保留原样，不自动推断到所有机型。</p><h2>如何维护</h2><p>修改 data/catalog.json，保留来源、查阅日期和适用条件，再运行 npm test 与 npm run build。网页和 Markdown 由构建程序生成，不手工修改生成文件。</p><h2>如何处理新旧资料</h2><p>先核对完整型号、主机修订和适用系统。信息详略不同记录为资料差异；同一条件下明确互相矛盾的内容记录为待核实冲突。新页面未列出不等于停产或不支持。</p><h2>访问与部署</h2><p>公开版无需登录，页面、数据和下载文件均可公开访问。本地也可以直接打开 index.html。资料与代码维护在 GitHub，发现问题请通过页面的“提交纠错”入口反馈。</p><h2>待补充资料</h2><ul id="backlog"></ul><a href="维护指南.md" download>下载完整维护指南</a></div></section>
+      <footer><span>基于倍福官方资料的个人整理，非倍福官方网站。</span><a href="https://github.com/vollmer2012/beckhoff-toolbox/tree/main/projects/Beckhoff-Model-Library" target="_blank" rel="noopener noreferrer">源文件与修订记录</a></footer>
+    </main>
+  </div>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <noscript><p>查询需要启用 JavaScript。也可以直接阅读本目录的“型号快查.md”。</p></noscript>
+</body>
+</html>
