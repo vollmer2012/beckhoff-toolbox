@@ -2,7 +2,7 @@
   "schema_version": 1,
   "updated_on": "2026-11-19",
   "title": "倍福型号资料库",
-  "scope": "官网控制器专题补充 · 含在售及服务阶段型号 · 非完整产品目录",
+  "scope": "官网控制器及 EL1xxx 专题整理 · 含在售及服务阶段型号 · 非完整产品目录",
   "sources": [
     {
       "id": "micro",
@@ -227,10 +227,10 @@
     },
     {
       "id": "el1008",
-      "title": "EL1008 数字量输入",
-      "url": "https://www.beckhoff.com/nl-nl/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1008.html",
-      "section": "Technical data；Housing data",
-      "locale": "nl-nl（产品正文英文）",
+      "title": "EL1008 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1008.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
       "kind": "产品选型页",
       "checked_on": "2026-11-19",
       "revision": null,
@@ -807,6 +807,812 @@
       "checked_on": "2026-11-19",
       "revision": null,
       "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1xxx-overview",
+      "title": "EL1xxx 官网表格选型总览",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/tabular-product-overview/",
+      "section": "EL1xxx | Digital input",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1252-0050",
+      "title": "EL1252-0050 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1252-0050.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1124",
+      "title": "EL1124 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1124.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1262-0010",
+      "title": "EL1262-0010 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1262-0010.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1262-0050",
+      "title": "EL1262-0050 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1262-0050.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1252-0060",
+      "title": "EL1252-0060 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1252-0060.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1144",
+      "title": "EL1144 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1144.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1002",
+      "title": "EL1002 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1002.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1004",
+      "title": "EL1004 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1004.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1809",
+      "title": "EL1809 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1809.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1004-0020",
+      "title": "EL1004-0020 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1004-0020.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1409",
+      "title": "EL1409 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1409.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1104",
+      "title": "EL1104 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1104.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1429",
+      "title": "EL1429 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1429.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1024",
+      "title": "EL1024 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1024.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1804",
+      "title": "EL1804 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1804.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1808",
+      "title": "EL1808 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1808.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1084",
+      "title": "EL1084 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1084.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1088",
+      "title": "EL1088 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1088.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1889",
+      "title": "EL1889 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1889.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1489",
+      "title": "EL1489 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1489.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1859",
+      "title": "EL1859 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1859.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1852",
+      "title": "EL1852 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1852.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1862",
+      "title": "EL1862 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1862.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1862-0010",
+      "title": "EL1862-0010 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1862-0010.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1417",
+      "title": "EL1417 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1417.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1012",
+      "title": "EL1012 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1012.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1014",
+      "title": "EL1014 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1014.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1018",
+      "title": "EL1018 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1018.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1899",
+      "title": "EL1899 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1899.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1252-0010",
+      "title": "EL1252-0010 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1252-0010.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1034",
+      "title": "EL1034 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1034.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1819",
+      "title": "EL1819 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1819.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1114",
+      "title": "EL1114 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1114.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1814",
+      "title": "EL1814 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1814.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1094",
+      "title": "EL1094 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1094.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1098",
+      "title": "EL1098 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1098.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1872",
+      "title": "EL1872 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1872.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1872-0010",
+      "title": "EL1872-0010 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1872-0010.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1202",
+      "title": "EL1202 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1202.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1252",
+      "title": "EL1252 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1252.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1254",
+      "title": "EL1254 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1254.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1258",
+      "title": "EL1258 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1258.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1259",
+      "title": "EL1259 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1259.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1262",
+      "title": "EL1262 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1262.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1264",
+      "title": "EL1264 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1264.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1258-0010",
+      "title": "EL1258-0010 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1258-0010.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1502",
+      "title": "EL1502 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1502.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1512",
+      "title": "EL1512 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1512.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1904",
+      "title": "EL1904 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/automation/twinsafe/twinsafe-hardware/el1904.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1918",
+      "title": "EL1918 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/automation/twinsafe/twinsafe-hardware/el1918.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1134",
+      "title": "EL1134 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1134.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1712",
+      "title": "EL1712 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1712.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1712-0020",
+      "title": "EL1712-0020 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1712-0020.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1702",
+      "title": "EL1702 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1702.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1722",
+      "title": "EL1722 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1722.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1702-0020",
+      "title": "EL1702-0020 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1702-0020.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1382",
+      "title": "EL1382 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1382.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1052",
+      "title": "EL1052 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1052.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1054",
+      "title": "EL1054 官方选型页",
+      "url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el-ed1xxx-digital-input/el1054.html",
+      "section": "H1 / Product status / Technical data / Housing data / Ordering information（若静态页面可读）",
+      "locale": "en-en",
+      "kind": "产品选型页",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1202-dc-manual",
+      "title": "EL1202 两种配置的官方技术表",
+      "url": "https://infosys.beckhoff.com/content/1033/el1202_el1252/1627156235.html",
+      "section": "Technical data / EL1202-0000、EL1202-0100 参数列",
+      "locale": "en-en",
+      "kind": "Infosys 手册章节",
+      "checked_on": "2026-11-19",
+      "revision": null,
+      "published_on": null,
+      "archived_file": null,
+      "sha256": null
+    },
+    {
+      "id": "el1429-zh-manual",
+      "title": "EL1429 官方中文手册：PNP/NPN",
+      "url": "https://download.beckhoff.com/download/document/io/ethercat-terminals/el1429_zh.pdf",
+      "section": "第 15 页 2.1 简介；第 16 页 2.2 技术数据（PDF 第 15、16 页）",
+      "locale": "zh-CN",
+      "kind": "官方 PDF 手册",
+      "checked_on": "2026-11-19",
+      "revision": "1.0.0",
+      "published_on": "2025-02-19",
       "archived_file": null,
       "sha256": null
     }
@@ -4974,28 +5780,41 @@
     },
     {
       "id": "EL1008",
-      "name": "8 通道数字量输入",
+      "name": "8 通道数字量输入, 24 V DC, 3 ms",
       "category": "I/O 硬件",
-      "subcategory": "",
-      "family": "EtherCAT",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
       "kind": "完整订货号",
-      "summary": "采集 24 V 二进制信号，3 ms 输入滤波。",
+      "summary": "8 通道数字量输入, 24 V DC, 3 ms。规格取自对应具体型号官方产品页。",
       "specs": {
-        "通道": "8 DI",
-        "额定电压": "24 V DC",
-        "输入滤波": "典型 3 ms",
-        "接线": "1 线制",
-        "E-bus 电流": "典型 90 mA",
-        "尺寸": "12 × 100 × 68 mm"
+        "输入通道数": "8",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "1-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "standard input terminal for bouncing signals (filter 3 ms)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
       },
       "lifecycle": "正常供货（页面查阅时）",
       "review_state": "已核对官网",
-      "notes": [],
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
       "aliases": [
+        "EL1xxx",
+        "EtherCAT",
         "IO",
         "端子",
         "模块",
-        "DI"
+        "DI",
+        "数字量输入"
       ],
       "source_ids": [
         "el1008"
@@ -5004,16 +5823,24 @@
       "evidence": [
         {
           "source_id": "el1008",
-          "section": "简介 / Technical data / Housing data / EL1008",
-          "observation": "采集 24 V 二进制信号，3 ms 输入滤波。",
+          "section": "H1 / Technical data（EL1008 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
           "claims": {
-            "通道": "8 DI",
-            "额定电压": "24 V DC",
-            "输入滤波": "典型 3 ms",
-            "接线": "1 线制",
-            "E-bus 电流": "典型 90 mA",
-            "尺寸": "12 × 100 × 68 mm",
-            "页面状态": "正常供货（页面查阅时）"
+            "输入通道数": "8",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "1-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "standard input terminal for bouncing signals (filter 3 ms)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
           }
         }
       ]
@@ -9905,6 +10732,4185 @@
           }
         }
       ]
+    },
+    {
+      "id": "EL1252-0050",
+      "name": "2 通道数字量输入, 5 V DC, 1 µs, 时间戳",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 5 V DC, 1 µs, 时间戳。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "5 V DC",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "4-wire",
+        "输入 0 阈值": "< 0.8 V",
+        "输入 1 阈值": "> 2.4 V",
+        "输入电流": "typ. 50 µA",
+        "时间戳精度": "10 ns (+ input delay) between the channels",
+        "输入延迟 TON/TOFF": "< 1 µs",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "timestamp, latch last edge",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "时间戳",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1252-0050"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1252-0050",
+          "section": "H1 / Technical data（EL1252-0050 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "5 V DC",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "4-wire",
+            "输入 0 阈值": "< 0.8 V",
+            "输入 1 阈值": "> 2.4 V",
+            "输入电流": "typ. 50 µA",
+            "时间戳精度": "10 ns (+ input delay) between the channels",
+            "输入延迟 TON/TOFF": "< 1 µs",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "timestamp, latch last edge",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1124",
+      "name": "4 通道数字量输入, 5 V DC, 0.05 µs",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 5 V DC, 0.05 µs。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "5 V DC",
+        "输入滤波": "typ. 0.05 μs",
+        "接线 / 连接": "2-/3-wire",
+        "输入 0 阈值": "< 0.8 V",
+        "输入 1 阈值": "> 2.4 V",
+        "输入电流": "typ. 50 µA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "fast CMOS input",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1124"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1124",
+          "section": "H1 / Technical data（EL1124 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "5 V DC",
+            "输入滤波": "typ. 0.05 μs",
+            "接线 / 连接": "2-/3-wire",
+            "输入 0 阈值": "< 0.8 V",
+            "输入 1 阈值": "> 2.4 V",
+            "输入电流": "typ. 50 µA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "fast CMOS input",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1262-0010",
+      "name": "2 通道数字量输入 + 2 通道数字量输出, 5 V DC, 100 ns, 0.1 A, RS422/RS485, 过采样",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入输出",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入 + 2 通道数字量输出, 5 V DC, 100 ns, 0.1 A, RS422/RS485, 过采样。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "通道配置": "2 inputs + 2 outputs",
+        "接线 / 连接": "D-sub, 9-pin",
+        "输入规范": "RS422/RS485, 5 V TTL",
+        "过采样 / 多时间戳倍数": "n = integer multiple of the cycle time, 1…10.000, see documentation",
+        "时间戳精度": "10 ns between the channels",
+        "采样率": "max. 10 Msamples/s, min. clock rate 0.1 µs",
+        "输出速率": "max. 10 Msamples/s, min. clock rate 0.1 µs",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "最大输出电流": "0.1 A each channel, individually short-circuit proof",
+        "E-bus 电流": "typ. 540 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "oversampling",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "24 mm x 100 mm x 52 mm",
+        "输入通道数": "2",
+        "输出通道数": "2",
+        "额定电压": "5 V DC"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "含数字量输出通道，不是纯输入端子；负载与输出额定值须一并核对。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "DO",
+        "混合输入输出",
+        "过采样",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1262-0010"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1262-0010",
+          "section": "H1 / Technical data（EL1262-0010 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "通道配置": "2 inputs + 2 outputs",
+            "接线 / 连接": "D-sub, 9-pin",
+            "输入规范": "RS422/RS485, 5 V TTL",
+            "过采样 / 多时间戳倍数": "n = integer multiple of the cycle time, 1…10.000, see documentation",
+            "时间戳精度": "10 ns between the channels",
+            "采样率": "max. 10 Msamples/s, min. clock rate 0.1 µs",
+            "输出速率": "max. 10 Msamples/s, min. clock rate 0.1 µs",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "最大输出电流": "0.1 A each channel, individually short-circuit proof",
+            "E-bus 电流": "typ. 540 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "oversampling",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "24 mm x 100 mm x 52 mm",
+            "输入通道数": "2",
+            "输出通道数": "2",
+            "额定电压": "5 V DC",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1262-0050",
+      "name": "2 通道数字量输入, 5 V DC, 1 µs, 过采样",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 5 V DC, 1 µs, 过采样。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "5 V DC",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "4-wire",
+        "输入 0 阈值": "< 0.8 V",
+        "输入 1 阈值": "> 2.4 V",
+        "输入电流": "typ. 50 µA",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 70 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "oversampling, 5 V inputs",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "过采样",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1262-0050"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1262-0050",
+          "section": "H1 / Technical data（EL1262-0050 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "5 V DC",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "4-wire",
+            "输入 0 阈值": "< 0.8 V",
+            "输入 1 阈值": "> 2.4 V",
+            "输入电流": "typ. 50 µA",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 70 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "oversampling, 5 V inputs",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1252-0060",
+      "name": "2 通道数字量输入, 10 V DC, 1 µs, 时间戳",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 10 V DC, 1 µs, 时间戳。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "10 V DC (-15 %/+20 %)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "4-wire",
+        "输入 0 阈值": "< 3 V",
+        "输入 1 阈值": "> 7 V",
+        "输入电流": "typ. 3 mA",
+        "时间戳精度": "10 ns (+ input delay) between the channels",
+        "输入延迟 TON/TOFF": "< 1 µs",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 110 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "timestamp, latch last edge",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "时间戳",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1252-0060"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1252-0060",
+          "section": "H1 / Technical data（EL1252-0060 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "10 V DC (-15 %/+20 %)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "4-wire",
+            "输入 0 阈值": "< 3 V",
+            "输入 1 阈值": "> 7 V",
+            "输入电流": "typ. 3 mA",
+            "时间戳精度": "10 ns (+ input delay) between the channels",
+            "输入延迟 TON/TOFF": "< 1 µs",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 110 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "timestamp, latch last edge",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1144",
+      "name": "4 通道数字量输入, 12 V DC, 10 µs",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 12 V DC, 10 µs。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "12 V DC",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "2-/3-wire",
+        "输入 0 阈值": "< 2.4 V",
+        "输入 1 阈值": "> 8.5 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1144"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1144",
+          "section": "H1 / Technical data（EL1144 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "12 V DC",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "2-/3-wire",
+            "输入 0 阈值": "< 2.4 V",
+            "输入 1 阈值": "> 8.5 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1002",
+      "name": "2 通道数字量输入, 24 V DC, 3 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 24 V DC, 3 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "4-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "4-wire connection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1002"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1002",
+          "section": "H1 / Technical data（EL1002 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "4-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "4-wire connection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1004",
+      "name": "4 通道数字量输入, 24 V DC, 3 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 3 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "2-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "standard input terminals for 2-wire connection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1004"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1004",
+          "section": "H1 / Technical data（EL1004 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "2-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "standard input terminals for 2-wire connection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1809",
+      "name": "16 通道数字量输入, 24 V DC, 3 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 3 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "1-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 100 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "standard terminal with high number of channels for slow 24 V DC edges, direct plug-in technology",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1809"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1809",
+          "section": "H1 / Technical data（EL1809 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "1-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 100 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "standard terminal with high number of channels for slow 24 V DC edges, direct plug-in technology",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1004-0020",
+      "name": "4 通道数字量输入, 24 V DC, 3 ms, isolation voltage 2500 V DC",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 3 ms, isolation voltage 2500 V DC。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "2-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "2500 V (E-bus/field potential)",
+        "特性": "Isolation voltage 2500 V DC (E-bus/field voltage)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1004-0020"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1004-0020",
+          "section": "H1 / Technical data（EL1004-0020 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "2-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "2500 V (E-bus/field potential)",
+            "特性": "Isolation voltage 2500 V DC (E-bus/field voltage)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1409",
+      "name": "16 通道数字量输入, 24 V DC, 3 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 3 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "1-wire",
+        "输入 0 阈值": "< 5 V",
+        "输入 1 阈值": "> 15 V",
+        "输入电流": "typ. 2 mA at 24 V nominal voltage",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 70 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1409"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1409",
+          "section": "H1 / Technical data（EL1409 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "1-wire",
+            "输入 0 阈值": "< 5 V",
+            "输入 1 阈值": "> 15 V",
+            "输入电流": "typ. 2 mA at 24 V nominal voltage",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 70 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1104",
+      "name": "4 通道数字量输入, 24 V DC, 3 ms, 2-/3-wire connection",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 3 ms, 2-/3-wire connection。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "2-/3-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "4 inputs for 2- and 3-wire connection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1104"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1104",
+          "section": "H1 / Technical data（EL1104 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "2-/3-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "4 inputs for 2- and 3-wire connection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1429",
+      "name": "16 通道数字量输入, 24 V DC, 3 ms, positive/低电平开关",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 3 ms, positive/低电平开关。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "1-wire",
+        "输入规范": "positive/ground switching",
+        "输入 0 阈值": "9…15 V at 24 V DC nominal voltage",
+        "输入 1 阈值": "0…5 V and 19…24 V at 24 V DC nominal voltage",
+        "输入电流": "typ. 2.5 mA at 24 V nominal voltage",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 110 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+        "开关类型": "PNP / NPN（每通道支持）"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN",
+        "PNP",
+        "双极性输入"
+      ],
+      "source_ids": [
+        "el1429",
+        "el1429-zh-manual"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1429",
+          "section": "H1 / Technical data（EL1429 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "1-wire",
+            "输入规范": "positive/ground switching",
+            "输入 0 阈值": "9…15 V at 24 V DC nominal voltage",
+            "输入 1 阈值": "0…5 V and 19…24 V at 24 V DC nominal voltage",
+            "输入电流": "typ. 2.5 mA at 24 V nominal voltage",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 110 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        },
+        {
+          "source_id": "el1429-zh-manual",
+          "section": "第 15 页 2.1 简介；第 16 页 2.2 技术数据（PDF 第 15、16 页）",
+          "observation": "官方中文手册明确每通道支持 PNP 或 NPN，不能把本型号只当作 NPN 输入。",
+          "claims": {
+            "开关类型": "PNP / NPN（每通道支持）"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1024",
+      "name": "4 通道数字量输入, 24 V DC, 3 ms, type 2",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 3 ms, type 2。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "2-wire",
+        "输入规范": "EN 61131-2, type 2",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 2)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 2)",
+        "输入电流": "typ. 6 mA (EN 61131-2, type 2)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "type 2",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1024"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1024",
+          "section": "H1 / Technical data（EL1024 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "2-wire",
+            "输入规范": "EN 61131-2, type 2",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 2)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 2)",
+            "输入电流": "typ. 6 mA (EN 61131-2, type 2)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "type 2",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1804",
+      "name": "4 通道数字量输入, 24 V DC, 3 ms, 3-wire connection",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 3 ms, 3-wire connection。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "3-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1804"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1804",
+          "section": "H1 / Technical data（EL1804 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "3-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1808",
+      "name": "8 通道数字量输入, 24 V DC, 3 ms, 2-wire connection",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入, 24 V DC, 3 ms, 2-wire connection。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "8",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "2-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 100 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "direct plug-in technology, 2-wire connection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1808"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1808",
+          "section": "H1 / Technical data（EL1808 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "8",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "2-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 100 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "direct plug-in technology, 2-wire connection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1084",
+      "name": "4 通道数字量输入, 24 V DC, 3 ms, 低电平开关",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 3 ms, 低电平开关。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "2-wire",
+        "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "2-wire connection",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1084"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1084",
+          "section": "H1 / Technical data（EL1084 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "2-wire",
+            "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "2-wire connection",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1088",
+      "name": "8 通道数字量输入, 24 V DC, 3 ms, 低电平开关",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入, 24 V DC, 3 ms, 低电平开关。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "8",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "1-wire",
+        "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1088"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1088",
+          "section": "H1 / Technical data（EL1088 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "8",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "1-wire",
+            "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1889",
+      "name": "16 通道数字量输入, 24 V DC, 3 ms, 低电平开关",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 3 ms, 低电平开关。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "1-wire",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 110 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1889"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1889",
+          "section": "H1 / Technical data（EL1889 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "1-wire",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 110 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1489",
+      "name": "16 通道数字量输入, 24 V DC, 3 ms, 低电平开关",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 3 ms, 低电平开关。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "1-wire",
+        "输入规范": "ground switching",
+        "输入 0 阈值": "19…24 V at 24 V DC nominal voltage",
+        "输入 1 阈值": "-3…9 V at 24 V DC nominal voltage",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 65 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1489"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1489",
+          "section": "H1 / Technical data（EL1489 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "1-wire",
+            "输入规范": "ground switching",
+            "输入 0 阈值": "19…24 V at 24 V DC nominal voltage",
+            "输入 1 阈值": "-3…9 V at 24 V DC nominal voltage",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 65 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1859",
+      "name": "8 通道数字量输入 + 8 通道数字量输出, 24 V DC, 3 ms, 0.5 A",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入输出",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入 + 8 通道数字量输出, 24 V DC, 3 ms, 0.5 A。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "通道配置": "8 inputs + 8 outputs",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "1-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "最大输出电流": "0.5 A per channel",
+        "E-bus 电流": "typ. 130 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "combi EtherCAT Terminal, 8 x output 24 V DC, Imax = 0.5 A, load type: resistive, inductive, lamp load, reverse voltage protection",
+        "工作温度": "-25…+55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+        "输入通道数": "8",
+        "输出通道数": "8"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "含数字量输出通道，不是纯输入端子；负载与输出额定值须一并核对。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "DO",
+        "混合输入输出"
+      ],
+      "source_ids": [
+        "el1859"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1859",
+          "section": "H1 / Technical data（EL1859 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "通道配置": "8 inputs + 8 outputs",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "1-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "最大输出电流": "0.5 A per channel",
+            "E-bus 电流": "typ. 130 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "combi EtherCAT Terminal, 8 x output 24 V DC, Imax = 0.5 A, load type: resistive, inductive, lamp load, reverse voltage protection",
+            "工作温度": "-25…+55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "输入通道数": "8",
+            "输出通道数": "8",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1852",
+      "name": "8 通道数字量输入 + 8 通道数字量输出, 24 V DC, 3 ms, 0.5 A, flat-ribbon cable",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入输出",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入 + 8 通道数字量输出, 24 V DC, 3 ms, 0.5 A, flat-ribbon cable。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "通道配置": "8 inputs + 8 outputs",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "flat-ribbon cable",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "最大输出电流": "0.5 A per channel",
+        "E-bus 电流": "typ. 100 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "combi EtherCAT Terminal, 8 x output 24 V DC, Imax = 0.5 A, load type: resistive, inductive, lamp load, reverse voltage protection",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm",
+        "输入通道数": "8",
+        "输出通道数": "8"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "含数字量输出通道，不是纯输入端子；负载与输出额定值须一并核对。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "DO",
+        "混合输入输出"
+      ],
+      "source_ids": [
+        "el1852"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1852",
+          "section": "H1 / Technical data（EL1852 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "通道配置": "8 inputs + 8 outputs",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "flat-ribbon cable",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "最大输出电流": "0.5 A per channel",
+            "E-bus 电流": "typ. 100 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "combi EtherCAT Terminal, 8 x output 24 V DC, Imax = 0.5 A, load type: resistive, inductive, lamp load, reverse voltage protection",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm",
+            "输入通道数": "8",
+            "输出通道数": "8",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1862",
+      "name": "16 通道数字量输入, 24 V DC, 3 ms, flat-ribbon cable",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 3 ms, flat-ribbon cable。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "flat-ribbon cable",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 100 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "also available as ground switching",
+        "工作温度": "-25…+55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1862"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1862",
+          "section": "H1 / Technical data（EL1862 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "flat-ribbon cable",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 100 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "also available as ground switching",
+            "工作温度": "-25…+55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1862-0010",
+      "name": "16 通道数字量输入, 24 V DC, 3 ms, 低电平开关, flat-ribbon cable",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 3 ms, 低电平开关, flat-ribbon cable。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "flat-ribbon cable",
+        "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 100 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "–",
+        "工作温度": "-25…+55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1862-0010"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1862-0010",
+          "section": "H1 / Technical data（EL1862-0010 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "flat-ribbon cable",
+            "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 100 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "–",
+            "工作温度": "-25…+55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1417",
+      "name": "32 通道数字量输入, 24 V DC, 可调滤波",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "32 通道数字量输入, 24 V DC, 可调滤波。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "32",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "configurable (0.1 ms, 0.5 ms, 1 ms, 3 ms, 10 ms, 20 ms)",
+        "接线 / 连接": "1-wire",
+        "输入 0 阈值": "< 5 V DC",
+        "输入 1 阈值": "> 15 V DC",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 60 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "24 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1417"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1417",
+          "section": "H1 / Technical data（EL1417 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "32",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "configurable (0.1 ms, 0.5 ms, 1 ms, 3 ms, 10 ms, 20 ms)",
+            "接线 / 连接": "1-wire",
+            "输入 0 阈值": "< 5 V DC",
+            "输入 1 阈值": "> 15 V DC",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 60 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "24 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1012",
+      "name": "2 通道数字量输入, 24 V DC, 10 µs",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 24 V DC, 10 µs。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "4-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "4-wire connection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1012"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1012",
+          "section": "H1 / Technical data（EL1012 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "4-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "4-wire connection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1014",
+      "name": "4 通道数字量输入, 24 V DC, 10 µs",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 10 µs。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "2-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "standard input terminals f0r 2-wire connection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1014"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1014",
+          "section": "H1 / Technical data（EL1014 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "2-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "standard input terminals f0r 2-wire connection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1018",
+      "name": "8 通道数字量输入, 24 V DC, 10 µs",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入, 24 V DC, 10 µs。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "8",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "1-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "standard input terminal for fast signals (filter 10 μs)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1018"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1018",
+          "section": "H1 / Technical data（EL1018 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "8",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "1-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "standard input terminal for fast signals (filter 10 μs)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1899",
+      "name": "16 通道数字量输入, 24 V DC, 10 µs, 低电平开关",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 10 µs, 低电平开关。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "1-wire",
+        "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 110 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1899"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1899",
+          "section": "H1 / Technical data（EL1899 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "1-wire",
+            "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 110 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1252-0010",
+      "name": "2 通道数字量输入, 24 V DC, 10 µs, 时间戳",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 24 V DC, 10 µs, 时间戳。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "4-wire",
+        "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (similar to EN 61131-2, type 3)",
+        "时间戳精度": "10 ns (+ input delay) between the channels",
+        "输入延迟 TON/TOFF": "< 1 µs",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 110 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "timestamp, latch last edge",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "时间戳",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1252-0010"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1252-0010",
+          "section": "H1 / Technical data（EL1252-0010 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "4-wire",
+            "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (similar to EN 61131-2, type 3)",
+            "时间戳精度": "10 ns (+ input delay) between the channels",
+            "输入延迟 TON/TOFF": "< 1 µs",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 110 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "timestamp, latch last edge",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1034",
+      "name": "4 通道数字量输入, 24 V DC, 10 µs, potential-free",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 10 µs, potential-free。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "2-wire",
+        "输入规范": "EN 61131-2, type 1",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1)",
+        "输入 1 阈值": "15…30 V (EN 61131-2, type 1)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 1)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "4 electrically isolated fast inputs, potential-free",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1034"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1034",
+          "section": "H1 / Technical data（EL1034 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "2-wire",
+            "输入规范": "EN 61131-2, type 1",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1)",
+            "输入 1 阈值": "15…30 V (EN 61131-2, type 1)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 1)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "4 electrically isolated fast inputs, potential-free",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1819",
+      "name": "16 通道数字量输入, 24 V DC, 10 µs",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 10 µs。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "1-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 100 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "standard terminal with high number of channels for fast 24 V DC edges, direct plug-in technology",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1819"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1819",
+          "section": "H1 / Technical data（EL1819 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "1-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 100 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "standard terminal with high number of channels for fast 24 V DC edges, direct plug-in technology",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1114",
+      "name": "4 通道数字量输入, 24 V DC, 10 µs, 2-/3-wire connection",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 10 µs, 2-/3-wire connection。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "2-/3-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "4 inputs for 2- and 3-wire connection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1114"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1114",
+          "section": "H1 / Technical data（EL1114 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "2-/3-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "4 inputs for 2- and 3-wire connection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1814",
+      "name": "4 通道数字量输入, 24 V DC, 10 µs, 3-wire connection",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 10 µs, 3-wire connection。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "3-wire",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1814"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1814",
+          "section": "H1 / Technical data（EL1814 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "3-wire",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1094",
+      "name": "4 通道数字量输入, 24 V DC, 10 µs, 低电平开关",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 10 µs, 低电平开关。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "2-wire",
+        "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "2-wire connection",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1094"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1094",
+          "section": "H1 / Technical data（EL1094 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "2-wire",
+            "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "2-wire connection",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1098",
+      "name": "8 通道数字量输入, 24 V DC, 10 µs, 低电平开关",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入, 24 V DC, 10 µs, 低电平开关。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "8",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "1-wire",
+        "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1098"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1098",
+          "section": "H1 / Technical data（EL1098 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "8",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "1-wire",
+            "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1872",
+      "name": "16 通道数字量输入, 24 V DC, 10 µs, flat-ribbon cable",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 10 µs, flat-ribbon cable。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "flat-ribbon cable",
+        "输入规范": "EN 61131-2, type 1/3",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 100 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "also available as ground switching",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1872"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1872",
+          "section": "H1 / Technical data（EL1872 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "flat-ribbon cable",
+            "输入规范": "EN 61131-2, type 1/3",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 100 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "also available as ground switching",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1872-0010",
+      "name": "16 通道数字量输入, 24 V DC, 10 µs, 低电平开关, flat-ribbon cable",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "16 通道数字量输入, 24 V DC, 10 µs, 低电平开关, flat-ribbon cable。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "16",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "flat-ribbon cable",
+        "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 100 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "–",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1872-0010"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1872-0010",
+          "section": "H1 / Technical data（EL1872-0010 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "16",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "flat-ribbon cable",
+            "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 3)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 100 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "–",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 73 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1202",
+      "name": "2 通道数字量输入, 24 V DC, 1 µs",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 24 V DC, 1 µs。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "4-wire",
+        "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (similar to EN 61131-2, type 3)",
+        "时间戳精度": "10 ns (+ input delay) between the channels",
+        "输入延迟 TON/TOFF": "< 1 µs",
+        "分布式时钟 DC": "can be activated, see documentation",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 110 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "DC can be activated, see documentation",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "官网说明 DC 同步需切换至 EL1202-0100 模式；普通 EL1202 的出厂配置与 DC 模式须区分，不能只看系列名称。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1202",
+        "el1202-dc-manual"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1202",
+          "section": "H1 / Technical data（EL1202 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "4-wire",
+            "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (similar to EN 61131-2, type 3)",
+            "时间戳精度": "10 ns (+ input delay) between the channels",
+            "输入延迟 TON/TOFF": "< 1 µs",
+            "分布式时钟 DC": "can be activated, see documentation",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 110 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "DC can be activated, see documentation",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        },
+        {
+          "source_id": "el1202-dc-manual",
+          "section": "Technical data / Distributed Clocks (DC)",
+          "observation": "补充对照：EL1202-0000 的 DC 为 no，EL1202-0100 为 yes；产品页的可激活描述并不代表出厂配置已启用。",
+          "claims": {
+            "EL1202-0000 分布式时钟": "no",
+            "EL1202-0100 分布式时钟": "yes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1252",
+      "name": "2 通道数字量输入, 24 V DC, 1 µs, 时间戳",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 24 V DC, 1 µs, 时间戳。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "4-wire",
+        "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (similar to EN 61131-2, type 3)",
+        "时间戳精度": "10 ns (+ input delay) between the channels",
+        "输入延迟 TON/TOFF": "< 1 µs",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 110 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "timestamp, latch last edge",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "时间戳",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1252"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1252",
+          "section": "H1 / Technical data（EL1252 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "4-wire",
+            "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (similar to EN 61131-2, type 3)",
+            "时间戳精度": "10 ns (+ input delay) between the channels",
+            "输入延迟 TON/TOFF": "< 1 µs",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 110 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "timestamp, latch last edge",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1254",
+      "name": "4 通道数字量输入, 24 V DC, 1 µs, 时间戳",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 1 µs, 时间戳。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "4-wire",
+        "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA (similar to EN 61131-2, type 3)",
+        "时间戳精度": "10 ns (+ input delay) between the channels",
+        "输入延迟 TON/TOFF": "< 1 µs",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 80 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "timestamp, latch last edge",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "时间戳",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1254"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1254",
+          "section": "H1 / Technical data（EL1254 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "4-wire",
+            "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA (similar to EN 61131-2, type 3)",
+            "时间戳精度": "10 ns (+ input delay) between the channels",
+            "输入延迟 TON/TOFF": "< 1 µs",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 80 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "timestamp, latch last edge",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1258",
+      "name": "8 通道数字量输入, 24 V DC, 1 µs, 多时间戳",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入, 24 V DC, 1 µs, 多时间戳。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "8",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "2-wire",
+        "输入 0 阈值": "-3…+5 V (IEC 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (IEC 61131-2, type 1/3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 1/3)",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 130 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "multi-timestamp",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "时间戳",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1258"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1258",
+          "section": "H1 / Technical data（EL1258 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "8",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "2-wire",
+            "输入 0 阈值": "-3…+5 V (IEC 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (IEC 61131-2, type 1/3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 1/3)",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 130 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "multi-timestamp",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1259",
+      "name": "8 通道数字量输入 + 8 通道数字量输出, 24 V DC, 1 µs, 0.5 A, 多时间戳",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入输出",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入 + 8 通道数字量输出, 24 V DC, 1 µs, 0.5 A, 多时间戳。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "通道配置": "8 inputs + 8 outputs",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "1-wire",
+        "输入 0 阈值": "-3…+5 V (IEC 61131-2, type 1/3)",
+        "输入 1 阈值": "11…30 V (IEC 61131-2, type 1/3)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 1/3)",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "最大输出电流": "0.5 A (short-circuit proof) per channel",
+        "E-bus 电流": "typ. 130 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "multi-timestamp, auto activation",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+        "输入通道数": "8",
+        "输出通道数": "8"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "含数字量输出通道，不是纯输入端子；负载与输出额定值须一并核对。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "DO",
+        "混合输入输出",
+        "时间戳",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1259"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1259",
+          "section": "H1 / Technical data（EL1259 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "通道配置": "8 inputs + 8 outputs",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "1-wire",
+            "输入 0 阈值": "-3…+5 V (IEC 61131-2, type 1/3)",
+            "输入 1 阈值": "11…30 V (IEC 61131-2, type 1/3)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 1/3)",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "最大输出电流": "0.5 A (short-circuit proof) per channel",
+            "E-bus 电流": "typ. 130 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "multi-timestamp, auto activation",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "输入通道数": "8",
+            "输出通道数": "8",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1262",
+      "name": "2 通道数字量输入, 24 V DC, 1 µs, 过采样",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 24 V DC, 1 µs, 过采样。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "4-wire",
+        "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA",
+        "时间戳精度": "10 ns (+ input delay) between the channels",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 70 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "oversampling",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "过采样",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1262"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1262",
+          "section": "H1 / Technical data（EL1262 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "4-wire",
+            "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA",
+            "时间戳精度": "10 ns (+ input delay) between the channels",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 70 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "oversampling",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1264",
+      "name": "4 通道数字量输入, 24 V DC, 1 µs, 过采样",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, 1 µs, 过采样。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "4-wire",
+        "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+        "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+        "输入电流": "typ. 3 mA",
+        "时间戳精度": "10 ns (+ input delay) between the channels",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 70 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "Oversampling",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "过采样",
+        "XFC"
+      ],
+      "source_ids": [
+        "el1264"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1264",
+          "section": "H1 / Technical data（EL1264 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "4-wire",
+            "输入规范": "similar to EN 61131-2, type 3, “0”: -3…5 V DC, “1”: 11…30 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "-3…+5 V (similar to EN 61131-2, type 3)",
+            "输入 1 阈值": "11…30 V (similar to EN 61131-2, type 3)",
+            "输入电流": "typ. 3 mA",
+            "时间戳精度": "10 ns (+ input delay) between the channels",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 70 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "Oversampling",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1258-0010",
+      "name": "8 通道数字量输入, 24 V DC, 1 µs, 低电平开关, 多时间戳",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入, 24 V DC, 1 µs, 低电平开关, 多时间戳。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "8",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入滤波": "typ. < 1 µs",
+        "接线 / 连接": "2-wire",
+        "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+        "输入 0 阈值": "18…30 V",
+        "输入 1 阈值": "0…7 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "yes",
+        "DC 精度": "<< 1 µs",
+        "E-bus 电流": "typ. 130 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "multi-timestamp",
+        "工作温度": "0…55°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "检索整理：依据官网 ground switching（低电平开关）归入 NPN 检索候选；这是检索同义词归类，不等同特定传感器的完整兼容验证，必须核对输入电压、阈值与接线。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "时间戳",
+        "XFC",
+        "低电平有效",
+        "ground switching",
+        "NPN"
+      ],
+      "source_ids": [
+        "el1258-0010"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1258-0010",
+          "section": "H1 / Technical data（EL1258-0010 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "8",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入滤波": "typ. < 1 µs",
+            "接线 / 连接": "2-wire",
+            "输入规范": "ground switching “0”: 18…30 V DC, “1”: 0…7 V DC, typ. 3 mA input current",
+            "输入 0 阈值": "18…30 V",
+            "输入 1 阈值": "0…7 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "yes",
+            "DC 精度": "<< 1 µs",
+            "E-bus 电流": "typ. 130 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "multi-timestamp",
+            "工作温度": "0…55°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1502",
+      "name": "2 通道数字量输入, counter, 24 V DC, 100 kHz",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 计数输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, counter, 24 V DC, 100 kHz。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "计数器数量": "1 or 2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "接线 / 连接": "1 x up/down counter, 2 x up or down counter",
+        "输入规范": "EN 61131-2, type 1, “0”: < 5 V DC, “1”: > 15 V DC, typ. 5 mA",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1)",
+        "输入 1 阈值": "15…30 V (EN 61131-2, type 1)",
+        "输入电流": "typ. 5 mA (EN 61131-2, type 1)",
+        "计数频率": "max. 100 kHz",
+        "分布式时钟 DC": "yes",
+        "最大输出电流": "24 V/0.5 A (short-circuit proof) per channel",
+        "E-bus 电流": "typ. 130 mA",
+        "计数深度": "32 bit",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "set counters, switch outputs",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+        "输入通道数": "2"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "计数器",
+        "脉冲计数"
+      ],
+      "source_ids": [
+        "el1502"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1502",
+          "section": "H1 / Technical data（EL1502 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "计数器数量": "1 or 2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "接线 / 连接": "1 x up/down counter, 2 x up or down counter",
+            "输入规范": "EN 61131-2, type 1, “0”: < 5 V DC, “1”: > 15 V DC, typ. 5 mA",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1)",
+            "输入 1 阈值": "15…30 V (EN 61131-2, type 1)",
+            "输入电流": "typ. 5 mA (EN 61131-2, type 1)",
+            "计数频率": "max. 100 kHz",
+            "分布式时钟 DC": "yes",
+            "最大输出电流": "24 V/0.5 A (short-circuit proof) per channel",
+            "E-bus 电流": "typ. 130 mA",
+            "计数深度": "32 bit",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "set counters, switch outputs",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "输入通道数": "2",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1512",
+      "name": "2 通道数字量输入, counter, 24 V DC, 1 kHz",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 计数输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, counter, 24 V DC, 1 kHz。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "计数器数量": "1 or 2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "接线 / 连接": "1 x up/down counter, 2 x up or down counter",
+        "输入规范": "EN 61131-2, type 1, “0”: < 5 V DC, “1”: > 15 V DC, typ. 5 mA",
+        "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1)",
+        "输入 1 阈值": "15…30 V (EN 61131-2, type 1)",
+        "输入电流": "typ. 5 mA (EN 61131-2, type 1)",
+        "计数频率": "max. 1 kHz",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 130 mA",
+        "计数深度": "32 bit",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "set counters",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+        "输入通道数": "2"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "计数器",
+        "脉冲计数"
+      ],
+      "source_ids": [
+        "el1512"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1512",
+          "section": "H1 / Technical data（EL1512 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "计数器数量": "1 or 2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "接线 / 连接": "1 x up/down counter, 2 x up or down counter",
+            "输入规范": "EN 61131-2, type 1, “0”: < 5 V DC, “1”: > 15 V DC, typ. 5 mA",
+            "输入 0 阈值": "-3…+5 V (EN 61131-2, type 1)",
+            "输入 1 阈值": "15…30 V (EN 61131-2, type 1)",
+            "输入电流": "typ. 5 mA (EN 61131-2, type 1)",
+            "计数频率": "max. 1 kHz",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 130 mA",
+            "计数深度": "32 bit",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "set counters",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "输入通道数": "2",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1904",
+      "name": "4 通道数字量输入, 24 V DC, TwinSAFE",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · TwinSAFE 安全输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 24 V DC, TwinSAFE。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "接线 / 连接": "1-/2-wire",
+        "协议": "TwinSAFE/Safety over EtherCAT",
+        "响应时间": "typ. 4 ms (read input/write to E-bus)",
+        "故障响应时间": "≤ watchdog time (parameterizable)",
+        "E-bus 电流": "typ. 200 mA",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+        "额定电压": "24 V DC"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "已核对该具体型号产品页；本次未读取到静态订货表，不据此推断其他后缀或 ES/ED 替代关系。",
+        "TwinSAFE 安全端子；本索引不构成安全设计或认证结论，应用条件、接线及响应时间须以对应安全手册核验。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "安全输入",
+        "TwinSAFE",
+        "FSoE"
+      ],
+      "source_ids": [
+        "el1904"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1904",
+          "section": "H1 / Technical data（EL1904 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "接线 / 连接": "1-/2-wire",
+            "协议": "TwinSAFE/Safety over EtherCAT",
+            "响应时间": "typ. 4 ms (read input/write to E-bus)",
+            "故障响应时间": "≤ watchdog time (parameterizable)",
+            "E-bus 电流": "typ. 200 mA",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "额定电压": "24 V DC",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1918",
+      "name": "8 通道数字量输入, 24 V DC, TwinSAFE, TwinSAFE Logic",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · TwinSAFE 安全输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "8 通道数字量输入, 24 V DC, TwinSAFE, TwinSAFE Logic。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "8",
+        "接线 / 连接": "1-/2-wire",
+        "输入规范": "link unit between safe input and output signals",
+        "协议": "TwinSAFE/Safety over EtherCAT",
+        "故障响应时间": "≤ watchdog time (parameterizable)",
+        "E-bus 电流": "typ. 165 mA",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+        "额定电压": "24 V DC"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。",
+        "TwinSAFE 安全端子；本索引不构成安全设计或认证结论，应用条件、接线及响应时间须以对应安全手册核验。",
+        "EL1918 支持集成 TwinSAFE Logic；EL1918-2200 为不带该逻辑功能的独立订货变体。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入",
+        "安全输入",
+        "TwinSAFE",
+        "FSoE"
+      ],
+      "source_ids": [
+        "el1918"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1918",
+          "section": "H1 / Technical data（EL1918 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "8",
+            "接线 / 连接": "1-/2-wire",
+            "输入规范": "link unit between safe input and output signals",
+            "协议": "TwinSAFE/Safety over EtherCAT",
+            "故障响应时间": "≤ watchdog time (parameterizable)",
+            "E-bus 电流": "typ. 165 mA",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "额定电压": "24 V DC",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1134",
+      "name": "4 通道数字量输入, 48 V DC, 10 µs",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, 48 V DC, 10 µs。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "额定电压": "48 V DC",
+        "输入滤波": "typ. 10 µs",
+        "接线 / 连接": "2-/3-wire",
+        "输入 0 阈值": "< 10 V (EN 61131-2, type 1)",
+        "输入 1 阈值": "> 34 V (EN 61131-2, type 1)",
+        "输入电流": "typ. 3 mA (EN 61131-2, type 1)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1134"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1134",
+          "section": "H1 / Technical data（EL1134 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "额定电压": "48 V DC",
+            "输入滤波": "typ. 10 µs",
+            "接线 / 连接": "2-/3-wire",
+            "输入 0 阈值": "< 10 V (EN 61131-2, type 1)",
+            "输入 1 阈值": "> 34 V (EN 61131-2, type 1)",
+            "输入电流": "typ. 3 mA (EN 61131-2, type 1)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1712",
+      "name": "2 通道数字量输入, 120 V AC/DC, 10 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 120 V AC/DC, 10 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "120 V AC/DC",
+        "输入滤波": "typ. 10 ms",
+        "接线 / 连接": "4-wire",
+        "输入 0 阈值": "0…40 V",
+        "输入 1 阈值": "79…140 V",
+        "输入电流": "> 3 mA, typ. 6 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/mains voltage); 3750 V AC, 1 min.",
+        "特性": "also suitable for 120 V DC",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1712"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1712",
+          "section": "H1 / Technical data（EL1712 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "120 V AC/DC",
+            "输入滤波": "typ. 10 ms",
+            "接线 / 连接": "4-wire",
+            "输入 0 阈值": "0…40 V",
+            "输入 1 阈值": "79…140 V",
+            "输入电流": "> 3 mA, typ. 6 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/mains voltage); 3750 V AC, 1 min.",
+            "特性": "also suitable for 120 V DC",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1712-0020",
+      "name": "2 通道数字量输入, 120 V DC, 3 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 120 V DC, 3 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "120 V DC",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "4-wire",
+        "输入 0 阈值": "0…40 V",
+        "输入 1 阈值": "80…140 V",
+        "输入电流": "typ. 3 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "direct connection of DC actuators",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1712-0020"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1712-0020",
+          "section": "H1 / Technical data（EL1712-0020 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "120 V DC",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "4-wire",
+            "输入 0 阈值": "0…40 V",
+            "输入 1 阈值": "80…140 V",
+            "输入电流": "typ. 3 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "direct connection of DC actuators",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1702",
+      "name": "2 通道数字量输入, 120…230 V AC, 10 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 120…230 V AC, 10 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "120/230 V AC",
+        "输入滤波": "typ. 10 ms",
+        "接线 / 连接": "4-wire",
+        "输入 0 阈值": "0…40 V",
+        "输入 1 阈值": "79…260 V",
+        "输入电流": "> 3 mA, typ. 6 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/mains voltage); 3750 V AC, 1 min.",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1702"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1702",
+          "section": "H1 / Technical data（EL1702 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "120/230 V AC",
+            "输入滤波": "typ. 10 ms",
+            "接线 / 连接": "4-wire",
+            "输入 0 阈值": "0…40 V",
+            "输入 1 阈值": "79…260 V",
+            "输入电流": "> 3 mA, typ. 6 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/mains voltage); 3750 V AC, 1 min.",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1722",
+      "name": "2 通道数字量输入, 120…230 V AC, 10 ms, without power contacts",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 120…230 V AC, 10 ms, without power contacts。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "120/230 V AC",
+        "输入滤波": "typ. 10 ms",
+        "接线 / 连接": "2-wire",
+        "输入 0 阈值": "0…40 V",
+        "输入 1 阈值": "79…260 V",
+        "输入电流": "> 3 mA, typ. 6 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 90 mA",
+        "电气隔离": "500 V (E-bus/mains voltage); 3750 V AC, 1 min.",
+        "特性": "no power contacts",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1722"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1722",
+          "section": "H1 / Technical data（EL1722 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "120/230 V AC",
+            "输入滤波": "typ. 10 ms",
+            "接线 / 连接": "2-wire",
+            "输入 0 阈值": "0…40 V",
+            "输入 1 阈值": "79…260 V",
+            "输入电流": "> 3 mA, typ. 6 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 90 mA",
+            "电气隔离": "500 V (E-bus/mains voltage); 3750 V AC, 1 min.",
+            "特性": "no power contacts",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1702-0020",
+      "name": "2 通道数字量输入, 220 V DC, 3 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 220 V DC, 3 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "220 V DC",
+        "输入滤波": "typ. 3 ms",
+        "接线 / 连接": "4-wire",
+        "输入 0 阈值": "0…100 V",
+        "输入 1 阈值": "180…264 V",
+        "输入电流": "typ. 1.4 mA",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 55 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1702-0020"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1702-0020",
+          "section": "H1 / Technical data（EL1702-0020 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "220 V DC",
+            "输入滤波": "typ. 3 ms",
+            "接线 / 连接": "4-wire",
+            "输入 0 阈值": "0…100 V",
+            "输入 1 阈值": "180…264 V",
+            "输入电流": "typ. 1.4 mA",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 55 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1382",
+      "name": "2 通道数字量输入, 热敏电阻, 30 ms",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, 热敏电阻, 30 ms。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "24 V (-15%/+20%)",
+        "输入滤波": "typ. 30 ms",
+        "接线 / 连接": "2-wire",
+        "输入规范": "thermistor PTC",
+        "输入 0 阈值": "≤ 1.5 kΩ",
+        "输入 1 阈值": "≥ 3 kΩ",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 150 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "monitoring device for thermal machine protection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1382"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1382",
+          "section": "H1 / Technical data（EL1382 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "24 V (-15%/+20%)",
+            "输入滤波": "typ. 30 ms",
+            "接线 / 连接": "2-wire",
+            "输入规范": "thermistor PTC",
+            "输入 0 阈值": "≤ 1.5 kΩ",
+            "输入 1 阈值": "≥ 3 kΩ",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 150 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "monitoring device for thermal machine protection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1052",
+      "name": "2 通道数字量输入, NAMUR",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "2 通道数字量输入, NAMUR。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "2",
+        "接线 / 连接": "2-wire",
+        "输入规范": "NAMUR DC switching amplifier (IEC 60947-5-6)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 40 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "integrated reverse polarity protection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1052"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1052",
+          "section": "H1 / Technical data（EL1052 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "2",
+            "接线 / 连接": "2-wire",
+            "输入规范": "NAMUR DC switching amplifier (IEC 60947-5-6)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 40 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "integrated reverse polarity protection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1054",
+      "name": "4 通道数字量输入, NAMUR",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 数字量输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "4 通道数字量输入, NAMUR。规格取自对应具体型号官方产品页。",
+      "specs": {
+        "输入通道数": "4",
+        "接线 / 连接": "2-wire",
+        "输入规范": "NAMUR DC switching amplifier (IEC 60947-5-6)",
+        "分布式时钟 DC": "–",
+        "E-bus 电流": "typ. 50 mA",
+        "电气隔离": "500 V (E-bus/field potential)",
+        "特性": "integrated reverse polarity protection",
+        "工作温度": "-25…+60°C",
+        "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm"
+      },
+      "lifecycle": "正常供货（页面查阅时）",
+      "review_state": "已核对官网",
+      "notes": [
+        "规格标签为中文整理，参数值保留官网英文、单位和限定条件；接线、阈值与适用修订须核对对应手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "EtherCAT",
+        "IO",
+        "端子",
+        "模块",
+        "DI",
+        "数字量输入"
+      ],
+      "source_ids": [
+        "el1054"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1054",
+          "section": "H1 / Technical data（EL1054 参数列）/ Housing data / Product status",
+          "observation": "逐项按该具体型号页面摘录；参数值保留原文。通道或电压若未在技术表单列，则来自 H1，不从型号编号或系列通用值推断。",
+          "claims": {
+            "输入通道数": "4",
+            "接线 / 连接": "2-wire",
+            "输入规范": "NAMUR DC switching amplifier (IEC 60947-5-6)",
+            "分布式时钟 DC": "–",
+            "E-bus 电流": "typ. 50 mA",
+            "电气隔离": "500 V (E-bus/field potential)",
+            "特性": "integrated reverse polarity protection",
+            "工作温度": "-25…+60°C",
+            "尺寸（宽×高×深）": "12 mm x 100 mm x 68 mm",
+            "页面状态": "regular delivery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1918-2200",
+      "name": "8 通道 TwinSAFE 安全数字量输入（不带集成 TwinSAFE Logic）",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · TwinSAFE 安全输入",
+      "family": "EL1xxx",
+      "kind": "完整订货号",
+      "summary": "EL1918 官方订货表列出的独立变体，不提供集成 TwinSAFE Logic 功能。",
+      "specs": {
+        "输入通道数": "8",
+        "额定电压": "24 V DC",
+        "安全功能": "TwinSAFE",
+        "集成 TwinSAFE Logic": "不带（官网明确区分）"
+      },
+      "lifecycle": "单行供货状态未核实",
+      "review_state": "已核对官网",
+      "notes": [
+        "参数仅采用该变体的订货行和简介明确描述，不复制 EL1918 技术表的电流、尺寸或响应时间。",
+        "安全端子的接线及适用条件必须核对对应安全手册。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "TwinSAFE",
+        "安全输入",
+        "DI",
+        "端子",
+        "模块"
+      ],
+      "source_ids": [
+        "el1918"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1918",
+          "section": "Ordering information / EL1918-2200；简介 For applications without integrated TwinSAFE Logic",
+          "observation": "订货行明确为 8 通道、24 V DC、TwinSAFE；正文明确 -2200 不带集成 TwinSAFE Logic。整页供货状态不自动赋给变体。",
+          "claims": {
+            "输入通道数": "8",
+            "额定电压": "24 V DC",
+            "安全功能": "TwinSAFE",
+            "集成 TwinSAFE Logic": "不带（官网明确区分）"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EL1202-0100",
+      "name": "EL1202 分布式时钟同步配置模式",
+      "category": "I/O 硬件",
+      "subcategory": "EL1xxx · 配置模式",
+      "family": "EL1xxx",
+      "kind": "配置模式",
+      "summary": "手册列出的 DC 同步工作模式；不是本次已确认可直接采购的独立订货号。",
+      "specs": {
+        "输入通道数": "2",
+        "额定电压": "24 V DC (-15%/+20%)",
+        "输入延迟 TON/TOFF": "< 1 µs",
+        "分布式时钟 DC": "yes",
+        "记录性质": "固件 / 配置模式，非独立订货号确认"
+      },
+      "lifecycle": "配置模式，不适用供货状态",
+      "review_state": "已核对官网",
+      "notes": [
+        "普通 EL1202 出厂为 -0000 模式；切换方式和主站 DC 支持条件须查官方手册，不提供现场操作建议。"
+      ],
+      "aliases": [
+        "EL1xxx",
+        "DC",
+        "XFC",
+        "分布式时钟",
+        "同步输入"
+      ],
+      "source_ids": [
+        "el1202",
+        "el1202-dc-manual"
+      ],
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "el1202-dc-manual",
+          "section": "Technical data / EL1202-0100 列",
+          "observation": "手册明确 -0000 不带 DC，-0100 带 DC；共有表格单元的通道、电压和延迟适用于两列。",
+          "claims": {
+            "输入通道数": "2",
+            "额定电压": "24 V DC (-15%/+20%)",
+            "输入延迟 TON/TOFF": "< 1 µs",
+            "分布式时钟 DC": "yes"
+          }
+        },
+        {
+          "source_id": "el1202",
+          "section": "简介 / DC technology / EL1202-0100",
+          "observation": "官网说明须切换到 EL1202-0100 端子版本才能使用 DC 同步。",
+          "claims": {
+            "记录性质": "需切换的 DC 同步配置，不据此认定独立可采购型号"
+          }
+        }
+      ]
     }
   ],
   "relations": [
@@ -11039,6 +16045,11 @@
     {
       "topic": "实际兼容与采购状态",
       "reason": "官网列项不等同于实机验证或实时库存；需按具体硬件修订及完整配置核对。"
+    },
+    {
+      "topic": "EL1xxx 后续扩展与修订",
+      "reason": "本批以官网 EL1xxx 表格总览 60 个具体产品页为范围，另收录 EL1918-2200 订货变体、EL1202-0100 配置模式。EL1957 等仅在其他年代总览中出现的型号、服务阶段型号、其他特殊后缀及硬件修订仍待逐项核验；本次不包含 ED、ES、ELX 或 EL2xxx，不声称覆盖 EL1xxx 全历史目录。"
     }
-  ]
+  ],
+  "updated_at": "2026-11-19T19:46:18+08:00"
 }

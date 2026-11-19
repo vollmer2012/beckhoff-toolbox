@@ -31,10 +31,13 @@
   const categories = ['全部型号', ...new Set(c.products.map(p => p.category))];
   if (state.category && !categories.includes(state.category)) state.category = '';
   $('categories').innerHTML = categories.map((cat,i) => `<button type="button" class="category" data-category="${i ? e(cat) : ''}" aria-pressed="false">${e(cat)}<span>${i ? c.products.filter(p => p.category===cat).length : c.products.length}</span></button>`).join('');
-  $('updated').textContent = c.updated_on;
-  $('updated').dateTime = c.updated_on;
+  $('updated').textContent = c.updated_at ? new Intl.DateTimeFormat('zh-CN', {timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(c.updated_at)) : c.updated_on;
+  $('updated').dateTime = c.updated_at || c.updated_on;
+  $('content-updated').textContent = $('updated').textContent;
+  $('content-updated').dateTime = $('updated').dateTime;
   const controllerCount = c.products.filter(p => p.id.startsWith('CX') && p.kind === '基础型号').length;
-  $('catalog-count').textContent = `${controllerCount} 个 CX 控制器 · ${c.products.length} 条记录 · ${c.sources.length} 个来源`;
+  const elCount = c.products.filter(p => p.family === 'EL1xxx').length;
+  $('catalog-count').textContent = `${controllerCount} 个 CX 控制器 · ${elCount} 条 EL1xxx · ${c.products.length} 条记录 · ${c.sources.length} 个来源`;
   $('issue-count').textContent = c.issues.length;
   $('query').value = state.q;
   function syncURL() {

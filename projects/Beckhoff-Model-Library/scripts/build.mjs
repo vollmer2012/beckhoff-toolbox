@@ -59,4 +59,10 @@ for (const p of controllers) {
 coverage.push('', '## 待补齐', '', ...data.backlog.filter(b => b.topic.includes('控制器')).map(b => b.reason), '', '配置数为 0 表示尚未录入，不表示厂商没有配置。', '');
 await writeFile(path.join(root, 'docs/控制器收录清单.md'), coverage.join('\n'));
 await copyFile(path.join(root, 'docs/控制器收录清单.md'), path.join(root, 'dist/控制器收录清单.md'));
+const elProducts = data.products.filter(p => p.family === 'EL1xxx').sort((a,b) => a.id.localeCompare(b.id,'en',{numeric:true}));
+const elLines = ['# EL1xxx 收录清单', '', `资料更新：${data.updated_at || data.updated_on}。单条来源核对日期见记录。`, '', '本批以官网 EL1xxx 表格总览列出的 60 个具体产品页为范围，另收录一项明确订货变体和一项配置模式。共 '+elProducts.length+' 条记录，不代表全历史型号或全部订货后缀。', '', 'EL1202-0100 明确作为配置模式，不能当成已确认可直接采购的订货号。TwinSAFE 条目不构成安全设计或实机验证。', '', '| 型号 / 模式 | 类型 | 名称 | 关键规格 | 来源 |', '| --- | --- | --- | --- | --- |'];
+for (const p of elProducts) elLines.push(`| ${esc(p.id)} | ${esc(p.kind)} | ${esc(p.name)} | ${esc(Object.entries(p.specs).slice(0,6).map(([k,v]) => `${k}：${v}`).join('；'))} | ${links(p.source_ids)} |`);
+await writeFile(path.join(root,'docs/EL1xxx收录清单.md'),elLines.join('\n')+'\n');
+await copyFile(path.join(root,'docs/EL1xxx收录清单.md'),path.join(root,'dist/EL1xxx收录清单.md'));
+await copyFile(path.join(root,'docs/更新记录.md'),path.join(root,'dist/更新记录.md'));
 console.log(`Validated and built: ${data.products.length} records / ${data.sources.length} sources / ${data.relations.length} relations / ${data.issues.length} issue records.`);
