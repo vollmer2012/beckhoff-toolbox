@@ -31,10 +31,17 @@
   const categories = ['全部型号', ...new Set(c.products.map(p => p.category))];
   if (state.category && !categories.includes(state.category)) state.category = '';
   $('categories').innerHTML = categories.map((cat,i) => `<button type="button" class="category" data-category="${i ? e(cat) : ''}" aria-pressed="false">${e(cat)}<span>${i ? c.products.filter(p => p.category===cat).length : c.products.length}</span></button>`).join('');
-  $('updated').textContent = c.updated_at ? new Intl.DateTimeFormat('zh-CN', {timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(c.updated_at)) : c.updated_on;
+  const formatTime = value => new Intl.DateTimeFormat('sv-SE', {timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).format(new Date(value));
+  $('updated').textContent = c.updated_at ? formatTime(c.updated_at) : c.updated_on;
   $('updated').dateTime = c.updated_at || c.updated_on;
   $('content-updated').textContent = $('updated').textContent;
   $('content-updated').dateTime = $('updated').dateTime;
+  const changelog = Array.isArray(window.MODEL_CHANGELOG) ? window.MODEL_CHANGELOG : [];
+  if (changelog.length && $('update-summary')) {
+    const latest = changelog[0];
+    $('update-summary').textContent = `${formatTime(latest.at)} · ${latest.title} · ${latest.records} 条`;
+    $('update-list').innerHTML = changelog.map(entry => `<li><time datetime="${e(entry.at)}">${e(formatTime(entry.at))}</time><strong>${e(entry.title)}</strong><p>${e(entry.summary)} 当时目录 ${e(entry.records)} 条。</p><p>${(entry.links || []).map(link => `<a href="${e(link.url)}" target="_blank" rel="noopener noreferrer">${e(link.label)}</a>`).join(' · ')}</p></li>`).join('');
+  }
   const controllerCount = c.products.filter(p => p.id.startsWith('CX') && p.kind === '基础型号').length;
   const el1Count = c.products.filter(p => p.family === 'EL1xxx').length;
   const el2Count = c.products.filter(p => p.family === 'EL2xxx').length;

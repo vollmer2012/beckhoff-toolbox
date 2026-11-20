@@ -17,7 +17,7 @@
 
 可维护的官方选型资料索引：型号与中文关键词搜索、分类/主机筛选、规格简介、配套条件、官方来源及资料差异。
 
-本批更新时间：2026-11-19 20:01:52（北京时间，Asia/Shanghai）；[更新记录](docs/更新记录.md) · [EL1xxx 清单](docs/EL1xxx收录清单.md) · [EL2xxx 清单](docs/EL2xxx收录清单.md)。
+[更新记录](docs/更新记录.md) · [维护记录](docs/维护记录.md) · [EL1xxx 清单](docs/EL1xxx收录清单.md) · [EL2xxx 清单](docs/EL2xxx收录清单.md)。更新时间以记录里的北京时间为准。
 
 **打开查询网页：[dist/index.html](dist/index.html)**。本地浏览器可直接打开该文件；GitHub 页面中点击 HTML 文件只会显示源码，独立网页需要托管。
 
