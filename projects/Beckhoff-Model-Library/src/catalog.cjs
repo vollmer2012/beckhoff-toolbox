@@ -22,7 +22,9 @@ function validate(c) {
     sources.add(s.id);
     try {
       const url = new URL(s.url);
-      if (url.protocol !== 'https:' || !(url.hostname === 'beckhoff.com' || url.hostname.endsWith('.beckhoff.com'))) throw new Error();
+      const host = url.hostname.toLowerCase();
+      const official = host === 'beckhoff.com' || host.endsWith('.beckhoff.com') || host === 'beckhoff.com.cn' || host.endsWith('.beckhoff.com.cn');
+      if (url.protocol !== 'https:' || !official) throw new Error();
     } catch { errors.push('来源必须是倍福官方 HTTPS 链接：' + s.id); }
     if (!validDate(s.checked_on)) errors.push('来源日期无效：' + s.id);
     for (const f of ['published_on']) if (s[f] != null && !validDate(s[f])) errors.push('来源日期无效：' + s.id + '/' + f);

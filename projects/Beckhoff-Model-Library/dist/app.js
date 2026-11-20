@@ -15,7 +15,7 @@
     review: params.get('review') || '', lifecycle: params.get('lifecycle') || '',
     selected: params.get('product') || '', tab: params.get('tab') || 'search', page: 1 };
   const e = text => String(text ?? '').replace(/[&<>"']/g, ch => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' })[ch]);
-  const badge = value => `<span class="badge ${value === '待核实冲突' ? 'conflict' : value === '资料差异' ? 'difference' : value === '产品公告' ? 'announcement' : ''}">${e(value)}</span>`;
+  const badge = value => `<span class="badge ${value === '待核实冲突' ? 'conflict' : value === '资料差异' ? 'difference' : value === '产品公告' ? 'announcement' : value === '简录待补' ? 'brief' : ''}">${e(value)}</span>`;
   const modelButton = id => `<button type="button" class="model-button" data-model="${e(id)}">${e(id)}</button>`;
   const sourceLink = id => { const s = sources.get(id); return `<a href="${e(s.url)}" target="_blank" rel="noopener noreferrer">${e(s.title)}</a>`; };
   const sorted = items => [...new Set(items)].sort((a,b) => a.localeCompare(b,'zh-CN',{numeric:true}));
@@ -66,6 +66,7 @@
     const variants = c.products.filter(v => v.specs['基础型号'] === p.id);
     $('detail').innerHTML = `<div class="detail-top"><span>${e(p.category)} / ${e(p.kind)}</span><button type="button" class="copy-button" data-copy="${e(p.id)}">复制型号</button></div>
       <h2>${e(p.id)}</h2><p class="detail-name">${e(p.name)}</p><div class="badges">${badge(p.review_state)}${badge(p.lifecycle)}</div><p class="detail-summary">${e(p.summary)}</p>
+      ${p.review_state === '简录待补' && sources.get(p.source_ids[0]) ? `<p><a href="${e(sources.get(p.source_ids[0]).url)}" target="_blank" rel="noopener noreferrer">打开官方产品页</a></p>` : ''}
       <h3>规格参数</h3><table class="specs"><tbody>${Object.entries(p.specs).map(([k,v]) => `<tr><th scope="row">${e(k)}</th><td>${e(v)}</td></tr>`).join('')}</tbody></table>
       ${p.notes.length ? `<h3>选型注意</h3><ul>${p.notes.map(n => `<li>${e(n)}</li>`).join('')}</ul>` : ''}
       ${issues.map(i => `<h3>${e(i.type)}</h3><div class="issue-inline"><strong>${e(i.title)}</strong>${e(i.resolution)}<br><button type="button" data-issue="${e(i.id)}">查看双方记录</button></div>`).join('')}
@@ -90,7 +91,9 @@
     $('scope-note').textContent = `当前范围：${state.host}。仅显示已收录的主机、配置及有来源的配套项；系列范围不会自动推断到具体型号。`;
     $('results').innerHTML = shown.map(p => {
       const specs = Object.entries(p.specs).slice(0,2).map(([k,v]) => `<span>${e(k)}：${e(v)}</span>`).join('<br>');
-      return `<tr class="${p.id === state.selected ? 'selected' : ''}"><td><button type="button" class="model-button" data-select="${e(p.id)}" aria-pressed="${p.id === state.selected}" aria-controls="detail">${e(p.id)}</button><span class="product-name">${e(p.name)}</span><span class="record-tag">${e(p.category)} · ${e(p.kind)}</span></td><td class="spec-snippet">${specs}</td><td>${badge(p.review_state)}<span class="record-tag">${p.source_ids.length} 个来源</span>${p.lifecycle === '产品公告' ? badge(p.lifecycle) : ''}</td></tr>`;
+      const official = p.review_state === '简录待补' ? sources.get(p.source_ids[0]) : null;
+      const officialLink = official ? `<a class="official-link" href="${e(official.url)}" target="_blank" rel="noopener noreferrer">官方页面</a>` : '';
+      return `<tr class="${p.id === state.selected ? 'selected' : ''}"><td><button type="button" class="model-button" data-select="${e(p.id)}" aria-pressed="${p.id === state.selected}" aria-controls="detail">${e(p.id)}</button><span class="product-name">${e(p.name)}</span>${officialLink}<span class="record-tag">${e(p.category)} · ${e(p.kind)}</span></td><td class="spec-snippet">${specs}</td><td>${badge(p.review_state)}<span class="record-tag">${p.source_ids.length} 个来源</span>${p.lifecycle === '产品公告' ? badge(p.lifecycle) : ''}</td></tr>`;
     }).join('');
     const typed = state.q.trim();
     $('empty-text').textContent = typed

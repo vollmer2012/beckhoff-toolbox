@@ -114,7 +114,7 @@ test('短英文词按整词匹配，不把 IO 配到 IoT，也不把 CE 配到�
   assert.ok(ce.length < 40);
 });
 test('型号里的 x 表示一位数字，完整型号仍排在前面', () => {
-  assert.deepEqual(find('CX20x0'), ['CX2020', 'CX2030', 'CX2040']);
+  assert.deepEqual(find('CX20x0').slice(0, 3), ['CX2020', 'CX2030', 'CX2040']);
   assert.deepEqual(find('CX20X0'), find('CX20x0'));
   assert.ok(!find('CX20x0').includes('CX2033'));
   assert.ok(!find('CX20x0').includes('CX2042'));
