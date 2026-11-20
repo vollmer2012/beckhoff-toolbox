@@ -1,0 +1,2284 @@
+{
+  "checked_on": "2026-11-20",
+  "source": "https://www.beckhoff.com/en-en/sitemap.xml 中的 IPC 当前产品页与 IPC 服务页；中文站有对应页面时改用 www.beckhoff.com.cn。",
+  "added": 284,
+  "by_group": {
+    "C": 91,
+    "CP": 117,
+    "CX": 76
+  },
+  "records": [
+    {
+      "id": "C3320-0070",
+      "name": "19-inch Panel PC (service phase)",
+      "category": "面板式电脑",
+      "family": "C33xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c3320-0070.html"
+    },
+    {
+      "id": "C3330-0070",
+      "name": "19-inch Panel PC (service phase)",
+      "category": "面板式电脑",
+      "family": "C33xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c3330-0070.html"
+    },
+    {
+      "id": "C3340-0070",
+      "name": "19-inch Panel PC (service phase)",
+      "category": "面板式电脑",
+      "family": "C33xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c3340-0070.html"
+    },
+    {
+      "id": "C3350-0070",
+      "name": "19-inch Panel PC (service phase)",
+      "category": "面板式电脑",
+      "family": "C33xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c3350-0070.html"
+    },
+    {
+      "id": "C3620-0070",
+      "name": "Panel PC (service phase)",
+      "category": "面板式电脑",
+      "family": "C36xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c3620-0070.html"
+    },
+    {
+      "id": "C3640-0070",
+      "name": "Panel PC (service phase)",
+      "category": "面板式电脑",
+      "family": "C36xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c3640-0070.html"
+    },
+    {
+      "id": "C5210",
+      "name": "19 英寸抽拉式工业 PC",
+      "category": "主机硬件",
+      "family": "C52xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c5xxx-19-inch-slide-in-ipc/c5210.html"
+    },
+    {
+      "id": "C5210-0030",
+      "name": "19 英寸抽拉式工业 PC",
+      "category": "主机硬件",
+      "family": "C52xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c5xxx-19-inch-slide-in-ipc/c5210-0030.html"
+    },
+    {
+      "id": "C5210-0040",
+      "name": "19 英寸抽拉式工业 PC",
+      "category": "主机硬件",
+      "family": "C52xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c5xxx-19-inch-slide-in-ipc/c5210-0040.html"
+    },
+    {
+      "id": "C5210-0050",
+      "name": "19 英寸抽拉式工业 PC",
+      "category": "主机硬件",
+      "family": "C52xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c5xxx-19-inch-slide-in-ipc/c5210-0050.html"
+    },
+    {
+      "id": "C5240",
+      "name": "19 英寸抽拉式工业 PC",
+      "category": "主机硬件",
+      "family": "C52xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c5xxx-19-inch-slide-in-ipc/c5240.html"
+    },
+    {
+      "id": "C5240-0010",
+      "name": "19 英寸抽拉式工业 PC",
+      "category": "主机硬件",
+      "family": "C52xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c5xxx-19-inch-slide-in-ipc/c5240-0010.html"
+    },
+    {
+      "id": "C5240-0020",
+      "name": "19 英寸抽拉式工业 PC",
+      "category": "主机硬件",
+      "family": "C52xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c5xxx-19-inch-slide-in-ipc/c5240-0020.html"
+    },
+    {
+      "id": "C5240-0030",
+      "name": "19 英寸抽拉式工业 PC",
+      "category": "主机硬件",
+      "family": "C52xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c5xxx-19-inch-slide-in-ipc/c5240-0030.html"
+    },
+    {
+      "id": "C6015",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6015.html"
+    },
+    {
+      "id": "C6015-0010",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6015-0010.html"
+    },
+    {
+      "id": "C6015-0020",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6015-0020.html"
+    },
+    {
+      "id": "C6015-0030",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6015-0030.html"
+    },
+    {
+      "id": "C6017",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6017.html"
+    },
+    {
+      "id": "C6017-0010",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6017-0010.html"
+    },
+    {
+      "id": "C6017-0020",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6017-0020.html"
+    },
+    {
+      "id": "C6017-0030",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6017-0030.html"
+    },
+    {
+      "id": "C6017-0040",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6017-0040.html"
+    },
+    {
+      "id": "C6025",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6025.html"
+    },
+    {
+      "id": "C6025-0000",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6025-0000.html"
+    },
+    {
+      "id": "C6025-0010",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6025-0010.html"
+    },
+    {
+      "id": "C6025-0020",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6025-0020.html"
+    },
+    {
+      "id": "C6027",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6027.html"
+    },
+    {
+      "id": "C6027-0000",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6027-0000.html"
+    },
+    {
+      "id": "C6027-0010",
+      "name": "无风扇超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6027-0010.html"
+    },
+    {
+      "id": "C6030",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6030.html"
+    },
+    {
+      "id": "C6030-0060",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6030-0060.html"
+    },
+    {
+      "id": "C6030-0070",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6030-0070.html"
+    },
+    {
+      "id": "C6032",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6032.html"
+    },
+    {
+      "id": "C6032-0060",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6032-0060.html"
+    },
+    {
+      "id": "C6032-0070",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6032-0070.html"
+    },
+    {
+      "id": "C6032-0080",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6032-0080.html"
+    },
+    {
+      "id": "C6040",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6040.html"
+    },
+    {
+      "id": "C6040-0090",
+      "name": "超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6040-0090.html"
+    },
+    {
+      "id": "C6043",
+      "name": "超紧凑型工业 PC 采用 NVIDIA® GPU",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6043.html"
+    },
+    {
+      "id": "C6043-0090",
+      "name": "超紧凑型工业 PC 采用 NVIDIA® GPU",
+      "category": "主机硬件",
+      "family": "C60xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c60xx-ultra-compact-industrial-pcs/c6043-0090.html"
+    },
+    {
+      "id": "C6140-0070",
+      "name": "Control cabinet Industrial PC (service phase)",
+      "category": "主机硬件",
+      "family": "C61xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c6140-0070.html"
+    },
+    {
+      "id": "C6140-0080",
+      "name": "Control cabinet Industrial PC (service phase)",
+      "category": "主机硬件",
+      "family": "C61xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c6140-0080.html"
+    },
+    {
+      "id": "C6150-0070",
+      "name": "Control cabinet Industrial PC (service phase)",
+      "category": "主机硬件",
+      "family": "C61xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c6150-0070.html"
+    },
+    {
+      "id": "C6240",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C62xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6240.html"
+    },
+    {
+      "id": "C6240-0070",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C62xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6240-0070.html"
+    },
+    {
+      "id": "C6240-0080",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C62xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6240-0080.html"
+    },
+    {
+      "id": "C6250-0080",
+      "name": "Control cabinet Industrial PC (service phase)",
+      "category": "主机硬件",
+      "family": "C62xx",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/c6250-0080.html"
+    },
+    {
+      "id": "C6515",
+      "name": "适合控制柜安装的无风扇型工业 PC",
+      "category": "主机硬件",
+      "family": "C65xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c65xx-fanless-built-in-industrial-pcs/c6515.html"
+    },
+    {
+      "id": "C6515-0060",
+      "name": "适合控制柜安装的无风扇型工业 PC",
+      "category": "主机硬件",
+      "family": "C65xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c65xx-fanless-built-in-industrial-pcs/c6515-0060.html"
+    },
+    {
+      "id": "C6515-0070",
+      "name": "适合控制柜安装的无风扇型工业 PC",
+      "category": "主机硬件",
+      "family": "C65xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c65xx-fanless-built-in-industrial-pcs/c6515-0070.html"
+    },
+    {
+      "id": "C6515-0080",
+      "name": "适合控制柜安装的无风扇型工业 PC",
+      "category": "主机硬件",
+      "family": "C65xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c65xx-fanless-built-in-industrial-pcs/c6515-0080.html"
+    },
+    {
+      "id": "C6525",
+      "name": "适合控制柜安装的无风扇型工业 PC",
+      "category": "主机硬件",
+      "family": "C65xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c65xx-fanless-built-in-industrial-pcs/c6525.html"
+    },
+    {
+      "id": "C6525-0060",
+      "name": "适合控制柜安装的无风扇型工业 PC",
+      "category": "主机硬件",
+      "family": "C65xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c65xx-fanless-built-in-industrial-pcs/c6525-0060.html"
+    },
+    {
+      "id": "C6525-0070",
+      "name": "适合控制柜安装的无风扇型工业 PC",
+      "category": "主机硬件",
+      "family": "C65xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c65xx-fanless-built-in-industrial-pcs/c6525-0070.html"
+    },
+    {
+      "id": "C6525-0080",
+      "name": "适合控制柜安装的无风扇型工业 PC",
+      "category": "主机硬件",
+      "family": "C65xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c65xx-fanless-built-in-industrial-pcs/c6525-0080.html"
+    },
+    {
+      "id": "C6640",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6640.html"
+    },
+    {
+      "id": "C6640-0050",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6640-0050.html"
+    },
+    {
+      "id": "C6640-0060",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6640-0060.html"
+    },
+    {
+      "id": "C6640-0070",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6640-0070.html"
+    },
+    {
+      "id": "C6650",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6650.html"
+    },
+    {
+      "id": "C6650-0050",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6650-0050.html"
+    },
+    {
+      "id": "C6650-0060",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6650-0060.html"
+    },
+    {
+      "id": "C6650-0070",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6650-0070.html"
+    },
+    {
+      "id": "C6670",
+      "name": "控制柜式工业服务器",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6670-control-cabinet-industrial-server/c6670.html"
+    },
+    {
+      "id": "C6670-0010",
+      "name": "Control cabinet industrial server",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6670-control-cabinet-industrial-server/c6670-0010.html"
+    },
+    {
+      "id": "C6670-0020",
+      "name": "控制柜式工业服务器",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6670-control-cabinet-industrial-server/c6670-0020.html"
+    },
+    {
+      "id": "C6675",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6675.html"
+    },
+    {
+      "id": "C6675-0060",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6675-0060.html"
+    },
+    {
+      "id": "C6675-0070",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c6xxx-control-cabinet-industrial-pcs/c6675-0070.html"
+    },
+    {
+      "id": "C6905",
+      "name": "经济型控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6905.html"
+    },
+    {
+      "id": "C6905-0010",
+      "name": "经济型控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6905-0010.html"
+    },
+    {
+      "id": "C6905-0020",
+      "name": "经济型控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6905-0020.html"
+    },
+    {
+      "id": "C6905-0030",
+      "name": "经济型控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6905-0030.html"
+    },
+    {
+      "id": "C6915",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6915.html"
+    },
+    {
+      "id": "C6915-0010",
+      "name": "无风扇控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6915-0010.html"
+    },
+    {
+      "id": "C6915-0020",
+      "name": "无风扇控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6915-0020.html"
+    },
+    {
+      "id": "C6920",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6920.html"
+    },
+    {
+      "id": "C6920-0060",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6920-0060.html"
+    },
+    {
+      "id": "C6920-0070",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6920-0070.html"
+    },
+    {
+      "id": "C6920-0080",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6920-0080.html"
+    },
+    {
+      "id": "C6925",
+      "name": "无风扇控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6925.html"
+    },
+    {
+      "id": "C6925-0030",
+      "name": "无风扇控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6925-0030.html"
+    },
+    {
+      "id": "C6925-0040",
+      "name": "无风扇控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6925-0040.html"
+    },
+    {
+      "id": "C6930",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6930.html"
+    },
+    {
+      "id": "C6930-0060",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6930-0060.html"
+    },
+    {
+      "id": "C6930-0070",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6930-0070.html"
+    },
+    {
+      "id": "C6930-0080",
+      "name": "控制柜式工业 PC",
+      "category": "主机硬件",
+      "family": "C69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c69xx-compact-industrial-pcs/c6930-0080.html"
+    },
+    {
+      "id": "C7015",
+      "name": "可直接集成到设备中的 IP65 级工业 PC",
+      "category": "主机硬件",
+      "family": "C70xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c70xx-ultra-compact-industrial-pcs-in-ip65/c7015.html"
+    },
+    {
+      "id": "C7015-0020",
+      "name": "防护等级为 IP65 的超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C70xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c70xx-ultra-compact-industrial-pcs-in-ip65/c7015-0020.html"
+    },
+    {
+      "id": "C7015-0030",
+      "name": "防护等级为 IP65 的超紧凑型工业 PC",
+      "category": "主机硬件",
+      "family": "C70xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/pcs/c70xx-ultra-compact-industrial-pcs-in-ip65/c7015-0030.html"
+    },
+    {
+      "id": "CP22xx",
+      "name": "适合控制柜安装的多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP22xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp22xx.html"
+    },
+    {
+      "id": "CP22xx-0020",
+      "name": "适合控制柜安装的多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP22xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp22xx-0020.html"
+    },
+    {
+      "id": "CP22xx-0030",
+      "name": "适合控制柜安装的多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP22xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp22xx-0030.html"
+    },
+    {
+      "id": "CP22xx-0040",
+      "name": "适合控制柜安装的多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP22xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp22xx-0040.html"
+    },
+    {
+      "id": "CP26xx",
+      "name": "适合控制柜安装的多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP26xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp26xx.html"
+    },
+    {
+      "id": "CP26xx-0000",
+      "name": "采用 Arm® Cortex®-A8 处理器的面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP26xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp26xx-0000.html"
+    },
+    {
+      "id": "CP27xx",
+      "name": "适合控制柜安装的无风扇多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP27xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp27xx.html"
+    },
+    {
+      "id": "CP27xx-0010",
+      "name": "适合控制柜安装的无风扇型多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP27xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp27xx-0010.html"
+    },
+    {
+      "id": "CP27xx-0020",
+      "name": "适合控制柜安装的无风扇型多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP27xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp27xx-0020.html"
+    },
+    {
+      "id": "CP27xx-0030",
+      "name": "适合控制柜安装的无风扇型多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP27xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp27xx-0030.html"
+    },
+    {
+      "id": "CP29xx",
+      "name": "适合控制柜安装的多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP29xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp29xx.html"
+    },
+    {
+      "id": "CP29xx-0000",
+      "name": "适合控制柜安装的多点触控控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP29xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp29xx-0000.html"
+    },
+    {
+      "id": "CP29xx-0010",
+      "name": "带 CP-Link 4 接口的适合控制柜安装的多点触控控制面板 — 单电缆显示器连接技术",
+      "category": "控制面板",
+      "family": "CP29xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp29xx-0010.html"
+    },
+    {
+      "id": "CP32xx",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP32xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp32xx.html"
+    },
+    {
+      "id": "CP32xx-0020",
+      "name": "“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP32xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp32xx-0020.html"
+    },
+    {
+      "id": "CP32xx-0030",
+      "name": "“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP32xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp32xx-0030.html"
+    },
+    {
+      "id": "CP32xx-0040",
+      "name": "“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP32xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp32xx-0040.html"
+    },
+    {
+      "id": "CP32xx-1600",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP32xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp32xx-1600.html"
+    },
+    {
+      "id": "CP32xx-1600-0020",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP32xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp32xx-1600-0020.html"
+    },
+    {
+      "id": "CP32xx-1600-0030",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP32xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp32xx-1600-0030.html"
+    },
+    {
+      "id": "CP32xx-1600-0040",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP32xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp32xx-1600-0040.html"
+    },
+    {
+      "id": "CP37xx",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp37xx.html"
+    },
+    {
+      "id": "CP37xx-0010",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp37xx-0010.html"
+    },
+    {
+      "id": "CP37xx-0020",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp37xx-0020.html"
+    },
+    {
+      "id": "CP37xx-0030",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp37xx-0030.html"
+    },
+    {
+      "id": "CP37xx-1600",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp37xx-1600.html"
+    },
+    {
+      "id": "CP37xx-1600-0020",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp37xx-1600-0020.html"
+    },
+    {
+      "id": "CP37xx-1600-0030",
+      "name": "多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp2xxx-cp3xxx-multi-touch-panel-pcs/cp37xx-1600-0030.html"
+    },
+    {
+      "id": "CP39xx",
+      "name": "多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp39xx.html"
+    },
+    {
+      "id": "CP39xx-0000",
+      "name": "带 DVI/USB Extended 接口的多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp39xx-0000.html"
+    },
+    {
+      "id": "CP39xx-0010",
+      "name": "带 CP-Link 4 接口的多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp39xx-0010.html"
+    },
+    {
+      "id": "CP39xx-150x",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp39xx-150x.html"
+    },
+    {
+      "id": "CP39xx-151x",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，配备模块化安装臂适配连接块",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp39xx-151x.html"
+    },
+    {
+      "id": "CP39xx-1400-0010",
+      "name": "配备 CP-Link 4 的不锈钢多点触控控制面板 — 单电缆显示器连接技术",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp39xx-1400-0010.html"
+    },
+    {
+      "id": "CP39xx-1401-0010",
+      "name": "配备 CP-Link 4 的不锈钢多点触控控制面板 — 单电缆显示器连接技术",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp39xx-1401-0010.html"
+    },
+    {
+      "id": "CP39xx-1414-0010",
+      "name": "配备 CP-Link 4 的不锈钢多点触控控制面板 — 单电缆显示器连接技术",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp39xx-1414-0010.html"
+    },
+    {
+      "id": "CP46xx",
+      "name": "新一代适合控制柜安装的多点触控面板型 PC 搭载 Arm® 处理器",
+      "category": "面板式电脑",
+      "family": "CP46xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp4xxx-cp5xxx-next-multi-touch-panel-pcs/cp46xx.html"
+    },
+    {
+      "id": "CP46xx-0010",
+      "name": "新一代适合控制柜安装的无风扇多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP46xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp4xxx-cp5xxx-next-multi-touch-panel-pcs/cp46xx-0010.html"
+    },
+    {
+      "id": "CP47xx",
+      "name": "新一代适合控制柜安装的无风扇多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP47xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp4xxx-cp5xxx-next-multi-touch-panel-pcs/cp47xx.html"
+    },
+    {
+      "id": "CP47xx-0040",
+      "name": "新一代适合控制柜安装的无风扇多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP47xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp4xxx-cp5xxx-next-multi-touch-panel-pcs/cp47xx-0040.html"
+    },
+    {
+      "id": "CP49xx",
+      "name": "新一代适合控制柜安装的多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP49xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp49xx-cp59xx-next-multi-touch-control-panels/cp49xx.html"
+    },
+    {
+      "id": "CP49xx-0020",
+      "name": "新一代适合控制柜安装的多点触控控制面板，带 DisplayPort/USB 接口",
+      "category": "控制面板",
+      "family": "CP49xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp49xx-cp59xx-next-multi-touch-control-panels/cp49xx-0020.html"
+    },
+    {
+      "id": "CP49xx-0030",
+      "name": "带 CP-Link 5 接口的新一代适合控制柜安装的多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP49xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp49xx-cp59xx-next-multi-touch-control-panels/cp49xx-0030.html"
+    },
+    {
+      "id": "CP56xx",
+      "name": "新一代多点触控面板型 PC搭载 Arm® 处理器",
+      "category": "面板式电脑",
+      "family": "CP56xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp4xxx-cp5xxx-next-multi-touch-panel-pcs/cp56xx.html"
+    },
+    {
+      "id": "CP56xx-0010",
+      "name": "新一代无风扇多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP56xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp4xxx-cp5xxx-next-multi-touch-panel-pcs/cp56xx-0010.html"
+    },
+    {
+      "id": "CP57xx",
+      "name": "新一代无风扇多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP57xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp4xxx-cp5xxx-next-multi-touch-panel-pcs/cp57xx.html"
+    },
+    {
+      "id": "CP57xx-0040",
+      "name": "新一代无风扇多点触控面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP57xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp4xxx-cp5xxx-next-multi-touch-panel-pcs/cp57xx-0040.html"
+    },
+    {
+      "id": "CP59xx",
+      "name": "新一代多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP59xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp49xx-cp59xx-next-multi-touch-control-panels/cp59xx.html"
+    },
+    {
+      "id": "CP59xx-0020",
+      "name": "新一代多点触控控制面板，带 DisplayPort/USB 接口",
+      "category": "控制面板",
+      "family": "CP59xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp49xx-cp59xx-next-multi-touch-control-panels/cp59xx-0020.html"
+    },
+    {
+      "id": "CP59xx-0030",
+      "name": "带 CP-Link 5 接口的新一代多点触控控制面板",
+      "category": "控制面板",
+      "family": "CP59xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp49xx-cp59xx-next-multi-touch-control-panels/cp59xx-0030.html"
+    },
+    {
+      "id": "CP62xx",
+      "name": "适合控制柜安装的“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP62xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp62xx.html"
+    },
+    {
+      "id": "CP62xx-xxxx-0070",
+      "name": "适合控制柜安装的“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP62xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp62xx-xxxx-0070.html"
+    },
+    {
+      "id": "CP62xx-xxxx-0080",
+      "name": "适合控制柜安装的“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP62xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp62xx-xxxx-0080.html"
+    },
+    {
+      "id": "CP62xx-xxxx-0090",
+      "name": "适合控制柜安装的“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP62xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp62xx-xxxx-0090.html"
+    },
+    {
+      "id": "CP65xx",
+      "name": "适合控制柜安装的面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP65xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp65xx.html"
+    },
+    {
+      "id": "CP65xx-xxxx-0090",
+      "name": "适合控制柜安装的面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP65xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp65xx-xxxx-0090.html"
+    },
+    {
+      "id": "CP66xx-0020",
+      "name": "适合控制柜安装的面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp66xx-0020.html"
+    },
+    {
+      "id": "CP66xx-xxxx-0020",
+      "name": "采用 Arm® Cortex®-A8 处理器的面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp66xx-xxxx-0020.html"
+    },
+    {
+      "id": "CP67xx",
+      "name": "适合控制柜安装的“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp67xx.html"
+    },
+    {
+      "id": "CP67xx-xxxx-0050",
+      "name": "适合控制柜安装的经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp67xx-xxxx-0050.html"
+    },
+    {
+      "id": "CP67xx-xxxx-0060",
+      "name": "适合控制柜安装的经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp67xx-xxxx-0060.html"
+    },
+    {
+      "id": "CP69xx",
+      "name": "适合控制柜安装的经济型控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp69xx.html"
+    },
+    {
+      "id": "CP69xx-xxxx-0010",
+      "name": "适合控制柜安装的经济型控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp69xx-xxxx-0010.html"
+    },
+    {
+      "id": "CP72xx",
+      "name": "经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP72xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp72xx.html"
+    },
+    {
+      "id": "CP72xx-xxxx-0060",
+      "name": "经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP72xx",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp72xx-xxxx-0060.html"
+    },
+    {
+      "id": "CP72xx-xxxx-0070",
+      "name": "经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP72xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp72xx-xxxx-0070.html"
+    },
+    {
+      "id": "CP72xx-xxxx-0080",
+      "name": "经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP72xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp72xx-xxxx-0080.html"
+    },
+    {
+      "id": "CP77xx",
+      "name": "经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP77xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp77xx.html"
+    },
+    {
+      "id": "CP77xx-xxxx-0030",
+      "name": "面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP77xx",
+      "lifecycle": "未核实供货状态",
+      "url": "https://www.beckhoff.com.cn/zh-cn/support/service-products/ipc-service-products/cp77xx-xxxx-0030.html"
+    },
+    {
+      "id": "CP77xx-xxxx-0050",
+      "name": "面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP77xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp77xx-xxxx-0050.html"
+    },
+    {
+      "id": "CP79xx",
+      "name": "经济型控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP79xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp79xx.html"
+    },
+    {
+      "id": "CP79xx-xxxx-0010",
+      "name": "经济型控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP79xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp79xx-xxxx-0010.html"
+    },
+    {
+      "id": "CP3921-1500-0000",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp3921-1500-0000.html"
+    },
+    {
+      "id": "CP3921-1500-0010",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，带 CP-Link 4 接口",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp3921-1500-0010.html"
+    },
+    {
+      "id": "CP3921-1502-0000",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp3921-1502-0000.html"
+    },
+    {
+      "id": "CP3921-1502-0010",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，带 CP-Link 4 接口",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp3921-1502-0010.html"
+    },
+    {
+      "id": "CP3921-1512-0000",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp3921-1512-0000.html"
+    },
+    {
+      "id": "CP3921-1512-0010",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，带 CP-Link 4 接口",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp3921-1512-0010.html"
+    },
+    {
+      "id": "CP3921-1513-0000",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp3921-1513-0000.html"
+    },
+    {
+      "id": "CP3921-1513-0010",
+      "name": "采用特殊 CNC 功能设计的 CNC 多点触控控制面板，带 CP-Link 4 接口",
+      "category": "控制面板",
+      "family": "CP39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp29xx-cp39xx-multi-touch-control-panels/cp3921-1513-0010.html"
+    },
+    {
+      "id": "CP6600-0001-0020",
+      "name": "10.1 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6600-0001-0020.html"
+    },
+    {
+      "id": "CP6600-0001-0030",
+      "name": "10.1 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP66xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6600-0001-0030.html"
+    },
+    {
+      "id": "CP6600-CP6606",
+      "name": "适合控制柜安装的经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6600-cp6606.html"
+    },
+    {
+      "id": "CP6606-0001-0020",
+      "name": "7 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP66xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6606-0001-0020.html"
+    },
+    {
+      "id": "CP6606-0001-0030",
+      "name": "7 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP66xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6606-0001-0030.html"
+    },
+    {
+      "id": "CP6700-0001-0050",
+      "name": "10.1 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6700-0001-0050.html"
+    },
+    {
+      "id": "CP6700-0001-0060",
+      "name": "10.1 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6700-0001-0060.html"
+    },
+    {
+      "id": "CP6700-0001-0070",
+      "name": "10.1 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6700-0001-0070.html"
+    },
+    {
+      "id": "CP6700-1400-0070",
+      "name": "采用不锈钢前面板的 10.1 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6700-1400-0070.html"
+    },
+    {
+      "id": "CP6700-1400-CP6706-1400",
+      "name": "适合控制柜安装的经济型不锈钢面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6700-1400-cp6706-1400.html"
+    },
+    {
+      "id": "CP6700-CP6706",
+      "name": "适合控制柜安装的“经济型”面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6700-cp6706.html"
+    },
+    {
+      "id": "CP6706-0001-0050",
+      "name": "7 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6706-0001-0050.html"
+    },
+    {
+      "id": "CP6706-0001-0060",
+      "name": "7 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6706-0001-0060.html"
+    },
+    {
+      "id": "CP6706-0001-0070",
+      "name": "7 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6706-0001-0070.html"
+    },
+    {
+      "id": "CP6706-1400-0070",
+      "name": "采用不锈钢前面板的 7 英寸经济型面板型 PC",
+      "category": "面板式电脑",
+      "family": "CP67xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/panel-pcs/cp6xxx-cp7xxx-single-touch-panel-pcs/cp6706-1400-0070.html"
+    },
+    {
+      "id": "CP6900-0001-0010",
+      "name": "适合控制柜安装的经济型控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp6900-0001-0010.html"
+    },
+    {
+      "id": "CP6900-1400-0010",
+      "name": "适合控制柜安装的经济型控制面板，配备不锈钢前面板",
+      "category": "控制面板",
+      "family": "CP69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp6900-1400-0010.html"
+    },
+    {
+      "id": "CP6900-1400-CP6906-1400",
+      "name": "带 DVI/USB Extended 接口的经济型不锈钢控制面板",
+      "category": "控制面板",
+      "family": "CP69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp6900-1400-cp6906-1400.html"
+    },
+    {
+      "id": "CP6900-CP6906",
+      "name": "适合控制柜安装的经济型控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp6900-cp6906.html"
+    },
+    {
+      "id": "CP6906-0001-0010",
+      "name": "适合控制柜安装的经济型控制面板，带 DVI/USB Extended 接口",
+      "category": "控制面板",
+      "family": "CP69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp6906-0001-0010.html"
+    },
+    {
+      "id": "CP6906-1400-0010",
+      "name": "适合控制柜安装的经济型控制面板，配备不锈钢前面板",
+      "category": "控制面板",
+      "family": "CP69xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp6xxx-cp7xxx-single-touch-control-panels/cp6906-1400-0010.html"
+    },
+    {
+      "id": "CP7901-1400-0010",
+      "name": "IP65 不锈钢控制面板，配备 12 英寸显示屏",
+      "category": "控制面板",
+      "family": "CP79xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp7901-1400-0010.html"
+    },
+    {
+      "id": "CP7901-1401-0010",
+      "name": "IP65 不锈钢控制面板，配备 12 英寸显示屏，可根据客户需求定制",
+      "category": "控制面板",
+      "family": "CP79xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp7901-1401-0010.html"
+    },
+    {
+      "id": "CP7902-1400-0010",
+      "name": "IP65 不锈钢控制面板，配备 15 英寸显示屏",
+      "category": "控制面板",
+      "family": "CP79xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp7902-1400-0010.html"
+    },
+    {
+      "id": "CP7902-1401-0010",
+      "name": "IP65 不锈钢控制面板，配备 15 英寸显示屏，可根据客户需求定制",
+      "category": "控制面板",
+      "family": "CP79xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp7902-1401-0010.html"
+    },
+    {
+      "id": "CP7903-1400-0010",
+      "name": "IP65 不锈钢控制面板，配备 19 英寸显示屏",
+      "category": "控制面板",
+      "family": "CP79xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp7903-1400-0010.html"
+    },
+    {
+      "id": "CP7903-1401-0010",
+      "name": "IP65 不锈钢控制面板，配备 19 英寸显示屏，可根据客户需求定制",
+      "category": "控制面板",
+      "family": "CP79xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com.cn/zh-cn/products/ipc/control-panels/cp39xx-cp79xx-stainless-steel-control-panels/cp7903-1401-0010.html"
+    },
+    {
+      "id": "CPX27xx",
+      "name": "Fanless multi-touch built-in Panel PC",
+      "category": "面板式电脑",
+      "family": "CPX27xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/panel-pcs/cpx27xx-cpx37xx-ex-panel-pcs/cpx27xx.html"
+    },
+    {
+      "id": "CPX27xx-0010",
+      "name": "Fanless multi-touch built-in Panel PC",
+      "category": "面板式电脑",
+      "family": "CPX27xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/panel-pcs/cpx27xx-cpx37xx-ex-panel-pcs/cpx27xx-0010.html"
+    },
+    {
+      "id": "CPX27xx-0030",
+      "name": "Fanless multi-touch built-in Panel PC",
+      "category": "面板式电脑",
+      "family": "CPX27xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/panel-pcs/cpx27xx-cpx37xx-ex-panel-pcs/cpx27xx-0030.html"
+    },
+    {
+      "id": "CPX29xx",
+      "name": "Multi-touch built-in Control Panel with DVI/USB Extended interface",
+      "category": "控制面板",
+      "family": "CPX29xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/control-panels/cpx29xx-cpx39xx-ex-control-panels/cpx29xx.html"
+    },
+    {
+      "id": "CPX29xx-0000",
+      "name": "Multi-touch built-in Control Panel with DVI/USB Extended interface",
+      "category": "控制面板",
+      "family": "CPX29xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/control-panels/cpx29xx-cpx39xx-ex-control-panels/cpx29xx-0000.html"
+    },
+    {
+      "id": "CPX37xx",
+      "name": "Multi-touch Panel PC",
+      "category": "面板式电脑",
+      "family": "CPX37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/panel-pcs/cpx27xx-cpx37xx-ex-panel-pcs/cpx37xx.html"
+    },
+    {
+      "id": "CPX37xx-0010",
+      "name": "Multi-touch Panel PC",
+      "category": "面板式电脑",
+      "family": "CPX37xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/panel-pcs/cpx27xx-cpx37xx-ex-panel-pcs/cpx37xx-0010.html"
+    },
+    {
+      "id": "CPX37xx-0030",
+      "name": "Multi-touch Panel PC",
+      "category": "面板式电脑",
+      "family": "CPX37xx",
+      "lifecycle": "产品公告",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/panel-pcs/cpx27xx-cpx37xx-ex-panel-pcs/cpx37xx-0030.html"
+    },
+    {
+      "id": "CPX39xx",
+      "name": "Multi-touch Control Panel with CP-Link 4 – The One Cable Display Link",
+      "category": "控制面板",
+      "family": "CPX39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/control-panels/cpx29xx-cpx39xx-ex-control-panels/cpx39xx.html"
+    },
+    {
+      "id": "CPX39xx-0010",
+      "name": "Multi-touch Control Panel with CP-Link 4 – The One Cable Display Link",
+      "category": "控制面板",
+      "family": "CPX39xx",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/control-panels/cpx29xx-cpx39xx-ex-control-panels/cpx39xx-0010.html"
+    },
+    {
+      "id": "CX1010-N010",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1010-n010.html"
+    },
+    {
+      "id": "CX1010-N020",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1010-n020.html"
+    },
+    {
+      "id": "CX1010-N030",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1010-n030.html"
+    },
+    {
+      "id": "CX1010-N031",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1010-n031.html"
+    },
+    {
+      "id": "CX1010-N040",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1010-n040.html"
+    },
+    {
+      "id": "CX1010-N041",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1010-n041.html"
+    },
+    {
+      "id": "CX1010-N060",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1010-n060.html"
+    },
+    {
+      "id": "CX1020-N010",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1020-n010.html"
+    },
+    {
+      "id": "CX1020-N020",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1020-n020.html"
+    },
+    {
+      "id": "CX1020-N030",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1020-n030.html"
+    },
+    {
+      "id": "CX1020-N031",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1020-n031.html"
+    },
+    {
+      "id": "CX1020-N040",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1020-n040.html"
+    },
+    {
+      "id": "CX1020-N041",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1020-n041.html"
+    },
+    {
+      "id": "CX1020-N060",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1020-n060.html"
+    },
+    {
+      "id": "CX1030-N010",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1030-n010.html"
+    },
+    {
+      "id": "CX1030-N020",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1030-n020.html"
+    },
+    {
+      "id": "CX1030-N030",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1030-n030.html"
+    },
+    {
+      "id": "CX1030-N031",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1030-n031.html"
+    },
+    {
+      "id": "CX1030-N040",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1030-n040.html"
+    },
+    {
+      "id": "CX1030-N041",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1030-n041.html"
+    },
+    {
+      "id": "CX1030-N060",
+      "name": "System interfaces (service phase)",
+      "category": "主机硬件",
+      "family": "CX1000",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1030-n060.html"
+    },
+    {
+      "id": "CX1100-0001",
+      "name": "Power supply units and I/O interfaces for CX1010/CX1020 (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0001.html"
+    },
+    {
+      "id": "CX1100-0002",
+      "name": "Power supply units and I/O interfaces for CX1010/CX1020 (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0002.html"
+    },
+    {
+      "id": "CX1100-0003",
+      "name": "Power supply units and I/O interfaces for CX1010/CX1020 (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0003.html"
+    },
+    {
+      "id": "CX1100-0004",
+      "name": "Power supply units and I/O interfaces for CX1010/CX1020 (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0004.html"
+    },
+    {
+      "id": "CX1100-0012",
+      "name": "Power supply units and I/O interfaces for CX1030 (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0012.html"
+    },
+    {
+      "id": "CX1100-0013",
+      "name": "Power supply units and I/O interfaces for CX1030 (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0013.html"
+    },
+    {
+      "id": "CX1100-0014",
+      "name": "Power supply units and I/O interfaces for CX1030 (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0014.html"
+    },
+    {
+      "id": "CX1100-0900",
+      "name": "UPS modules (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0900.html"
+    },
+    {
+      "id": "CX1100-0910",
+      "name": "UPS modules (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0910.html"
+    },
+    {
+      "id": "CX1100-0920",
+      "name": "UPS modules (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0920.html"
+    },
+    {
+      "id": "CX1100-0930",
+      "name": "UPS module (service phase)",
+      "category": "选件",
+      "family": "CX1100",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1100-0930.html"
+    },
+    {
+      "id": "CX1500-B200",
+      "name": "Lightbus slave fieldbus connection (service phase)",
+      "category": "选件",
+      "family": "CX1500",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1500-b200.html"
+    },
+    {
+      "id": "CX1500-B310",
+      "name": "PROFIBUS slave fieldbus connection (service phase)",
+      "category": "选件",
+      "family": "CX1500",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1500-b310.html"
+    },
+    {
+      "id": "CX1500-B510",
+      "name": "CANopen slave fieldbus connection (service phase)",
+      "category": "选件",
+      "family": "CX1500",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1500-b510.html"
+    },
+    {
+      "id": "CX1500-B520",
+      "name": "DeviceNet slave fieldbus connection (service phase)",
+      "category": "选件",
+      "family": "CX1500",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1500-b520.html"
+    },
+    {
+      "id": "CX1500-M310",
+      "name": "PROFIBUS master fieldbus connection (service phase)",
+      "category": "选件",
+      "family": "CX1500",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1500-m310.html"
+    },
+    {
+      "id": "CX1500-M510",
+      "name": "CANopen master fieldbus connection (service phase)",
+      "category": "选件",
+      "family": "CX1500",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1500-m510.html"
+    },
+    {
+      "id": "CX1500-M520",
+      "name": "DeviceNet® master fieldbus connection (service phase)",
+      "category": "选件",
+      "family": "CX1500",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1500-m520.html"
+    },
+    {
+      "id": "CX1900-002x-CX1900-003x",
+      "name": "CompactFlash® cards (service phase)",
+      "category": "存储介质",
+      "family": "CX1900",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx1900-002x-cx1900-003x.html"
+    },
+    {
+      "id": "CX1900-012x-CX1900-013x",
+      "name": "microSD cards",
+      "category": "存储介质",
+      "family": "CX1900",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/accessories/cx1900-012x-cx1900-013x.html"
+    },
+    {
+      "id": "CX2100-0004",
+      "name": "Power supply unit for CX20xx, 45 W",
+      "category": "选件",
+      "family": "CX2100",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2100-0004.html"
+    },
+    {
+      "id": "CX2100-0014",
+      "name": "Power supply unit for CX20xx, 130 W",
+      "category": "选件",
+      "family": "CX2100",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2100-0014.html"
+    },
+    {
+      "id": "CX2100-0022",
+      "name": "Power supply unit for CX20xx, 100 W, electrically isolated, UPS OCT-capable",
+      "category": "选件",
+      "family": "CX2100",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2100-0022.html"
+    },
+    {
+      "id": "CX2100-0024",
+      "name": "Power supply unit for CX20xx, 200 W, electrically isolated, UPS OCT-capable",
+      "category": "选件",
+      "family": "CX2100",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2100-0024.html"
+    },
+    {
+      "id": "CX2100-0904",
+      "name": "Power supply unit for CX20xx, 45 W, internal UPS",
+      "category": "选件",
+      "family": "CX2100",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2100-0904.html"
+    },
+    {
+      "id": "CX2100-0914",
+      "name": "Power supply unit for CX20xx, 100 W, for external battery pack (CX2900-0192)",
+      "category": "选件",
+      "family": "CX2100",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2100-0914.html"
+    },
+    {
+      "id": "CX2500-0020",
+      "name": "Audio interface for CX20x0 (service phase)",
+      "category": "主机硬件",
+      "family": "CX2500",
+      "lifecycle": "服务阶段",
+      "url": "https://www.beckhoff.com/en-en/support/service-products/ipc-service-products/cx2500-0020.html"
+    },
+    {
+      "id": "CX2500-0021",
+      "name": "Audio interface for CX20x3",
+      "category": "主机硬件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2500-0021.html"
+    },
+    {
+      "id": "CX2500-0030",
+      "name": "Serial Interface RS232 for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-0030.html"
+    },
+    {
+      "id": "CX2500-0031",
+      "name": "Serial Interface RS485/RS422 for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-0031.html"
+    },
+    {
+      "id": "CX2500-0060",
+      "name": "Ethernet module for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-0060.html"
+    },
+    {
+      "id": "CX2500-0061",
+      "name": "Power over Ethernet module for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-0061.html"
+    },
+    {
+      "id": "CX2500-0062",
+      "name": "2.5 Gbit Ethernet module for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-0062.html"
+    },
+    {
+      "id": "CX2500-0070",
+      "name": "USB 3.0 module for CX20xx, CX52xx, CX53x0, CX56x0",
+      "category": "主机硬件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-0070.html"
+    },
+    {
+      "id": "CX2500-1060",
+      "name": "Ethernet module for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-1060.html"
+    },
+    {
+      "id": "CX2500-1061",
+      "name": "Power over Ethernet module for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-1061.html"
+    },
+    {
+      "id": "CX2500-B310",
+      "name": "Fieldbus slave module PROFIBUS for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-b310.html"
+    },
+    {
+      "id": "CX2500-B510",
+      "name": "Fieldbus slave module CANopen for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-b510.html"
+    },
+    {
+      "id": "CX2500-M310",
+      "name": "Fieldbus master module PROFIBUS for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-m310.html"
+    },
+    {
+      "id": "CX2500-M510",
+      "name": "Fieldbus master module CANopen for CX20xx, CX52x0, CX53x0, CX56x0",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx5200-intel-atom-r-x/cx2500-m510.html"
+    },
+    {
+      "id": "CX2550-0010",
+      "name": "extension module for CX20xx, CFast slot",
+      "category": "主机硬件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2550-0010.html"
+    },
+    {
+      "id": "CX2550-0020",
+      "name": "Extension module for CX20xx – Module for 2½-inch HDD/SSD",
+      "category": "存储介质",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2550-0020.html"
+    },
+    {
+      "id": "CX2550-0179",
+      "name": "USB Extender Tx for CX20xx (CP69xx-xxxx-0000, CP79xx-xxxx-0000)",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2550-0179.html"
+    },
+    {
+      "id": "CX2550-0279",
+      "name": "USB Extender 2.0 Tx for CX20xx (CP29xx-0000, CP39xx-0000, CP69xx-xxxx-0010, CP79xx-xxxx-0010)",
+      "category": "选件",
+      "family": "CX2500",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x3-amd-ryzen/cx2550-0279.html"
+    },
+    {
+      "id": "CX2900-0x0x",
+      "name": "HDD/SSD",
+      "category": "存储介质",
+      "family": "CX2900",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/accessories/cx2900-0x0x.html"
+    },
+    {
+      "id": "CX2900-002x-CX2900-003x-CX2900-004x",
+      "name": "CFast cards",
+      "category": "存储介质",
+      "family": "CX2900",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/accessories/cx2900-002x-cx2900-003x-cx2900-004x.html"
+    },
+    {
+      "id": "CX2900-0120",
+      "name": "CX cable bracket for strain relief",
+      "category": "选件",
+      "family": "CX2900",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/accessories/cx2900-0120.html"
+    },
+    {
+      "id": "CX2900-0192",
+      "name": "Battery pack for CX20xx",
+      "category": "选件",
+      "family": "CX2900",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx20x2-intel-r-xeon-r-d/cx2900-0192.html"
+    },
+    {
+      "id": "CX5110-01xx-9020",
+      "name": "Embedded PC with Intel Atom® processor",
+      "category": "主机硬件",
+      "family": "CX5100",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx51x0-intel-atom-r/cx5110-01xx-9020.html"
+    },
+    {
+      "id": "CX5120-01xx-9020",
+      "name": "Embedded PC with Intel Atom® processor",
+      "category": "主机硬件",
+      "family": "CX5100",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx51x0-intel-atom-r/cx5120-01xx-9020.html"
+    },
+    {
+      "id": "CX7291",
+      "name": "Embedded PC with Arm® Cortex®-A9, BACnet/IP and integrated I/Os",
+      "category": "主机硬件",
+      "family": "CX7200",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx7000-arm-r-cortex-r/cx7291.html"
+    },
+    {
+      "id": "CX7293",
+      "name": "Embedded PC with Arm® Cortex®-A9, PROFINET RT device and integrated I/Os",
+      "category": "主机硬件",
+      "family": "CX7200",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx7000-arm-r-cortex-r/cx7293.html"
+    },
+    {
+      "id": "CX8030",
+      "name": "Embedded PC with Arm9™ and PROFIBUS master",
+      "category": "主机硬件",
+      "family": "CX8000",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8030.html"
+    },
+    {
+      "id": "CX8050",
+      "name": "Embedded PC with Arm9™ and CANopen master",
+      "category": "主机硬件",
+      "family": "CX8000",
+      "lifecycle": "正常供货，不推荐新项目",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8000-arm9/cx8050.html"
+    },
+    {
+      "id": "CX8200",
+      "name": "Embedded PC with Arm® Cortex®-A53",
+      "category": "主机硬件",
+      "family": "CX8200",
+      "lifecycle": "正常供货（页面查阅时）",
+      "url": "https://www.beckhoff.com/en-en/products/ipc/embedded-pcs/cx8200-arm-r-cortex-r-a53/cx8200.html"
+    }
+  ]
+}

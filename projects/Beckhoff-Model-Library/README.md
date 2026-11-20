@@ -7,8 +7,8 @@
 ![查询 CX5130 的结果。页面标明非官方资料索引](docs/search-preview.png)
 
 <!-- catalog-coverage:start -->
-已收录 338 条记录、194 个官方来源：部分 CX 控制器 44 个基础型号，存储介质 39 条，操作系统 21 条，EL1xxx 62 条，EL2xxx 71 条。
-尚未覆盖运动控制、伺服、电机、线缆和端子全系列，也不包含 EL3xxx、ED、ES、ELM、EM、ELX、BC/BX，以及未逐项核对的其余控制器和历史型号。这不是完整产品目录。型号规律不能用来判断附件是否兼容。官网核对不等于实机验证。
+已收录 622 条记录、478 个官方来源：工控机 C 系列 93 条，CX 控制器基础型号 49 个，控制面板与面板式电脑 CP 系列 117 条，存储介质 44 条，操作系统 21 条，EL1xxx 62 条，EL2xxx 71 条。其中 284 条是官网产品页简录，规格未逐项摘录。
+尚未覆盖运动控制、伺服、电机、线缆和端子全系列，也不包含 EL3xxx、ED、ES、ELM、EM、ELX、BC/BX。简录只保证能按型号找到官方产品页，不是完整规格，也不等于实机验证。型号规律不能用来判断附件是否兼容。官网核对不等于实机验证。
 <!-- catalog-coverage:end -->
 
 可以先试这三条：[CX5130](https://vollmer2012.github.io/beckhoff-toolbox/?q=CX5130)、[CFast 40GB](https://vollmer2012.github.io/beckhoff-toolbox/?q=CFast%2040GB)、[备用电池](https://vollmer2012.github.io/beckhoff-toolbox/?q=%E5%A4%87%E7%94%A8%E7%94%B5%E6%B1%A0)。

@@ -29,8 +29,10 @@
   }
   function boilerplateSpecKeys(products) {
     const counts = new Map();
-    for (const product of products) for (const key of Object.keys(product.specs || {})) counts.set(key, (counts.get(key) || 0) + 1);
-    const min = products.length * 0.45;
+    const detailed = products.filter(product => product.review_state !== '简录待补');
+    const basis = detailed.length ? detailed : products;
+    for (const product of basis) for (const key of Object.keys(product.specs || {})) counts.set(key, (counts.get(key) || 0) + 1);
+    const min = basis.length * 0.45;
     return new Set([...counts.keys()].filter(key => counts.get(key) >= min));
   }
   function visibleNote(value) {
@@ -44,6 +46,13 @@
     const parts = key.match(/^([a-z]+)([0-9].*)$/);
     if (!parts || !parts[2].includes('x')) return null;
     return new RegExp('^' + parts[1] + parts[2].replace(/x/g, '\\d'));
+  }
+  // 资料里的 CP22xx 这类页面用 x 表示数字。具体订货号如 CP2215 应对上该页，而不是被当成另一套型号。
+  function patternCovers(model, queryKey) {
+    if (!model.includes('x') || !queryKey) return false;
+    const parts = model.match(/^([a-z]+)(.*)$/);
+    if (!parts || !parts[2].includes('x') || !/\d/.test(parts[2])) return false;
+    return new RegExp('^' + parts[1] + parts[2].replace(/x/g, '\\d')).test(queryKey);
   }
   function hasToken(text, term) {
     const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -71,6 +80,7 @@
     const { product, model, text } = row;
     const wild = modelWildcard(term);
     if (wild && wild.test(model)) return true;
+    if (patternCovers(model, modelKey(term))) return true;
     const statuses = statusQueries[term];
     if (statuses && statuses.some(status => normalize(product.lifecycle).includes(status))) return true;
     const phrases = phraseQueries[term];
@@ -101,7 +111,7 @@
         }
         return termMatches(term, row);
       });
-    }).map(row => ({ ...row, rank: query && row.model === queryKey ? 0 : query && (row.model.startsWith(queryKey) || (queryPattern && queryPattern.test(row.model))) ? 1 : capacities.length && !row.product.specs['容量'] ? 3 : 2 }))
+    }).map(row => ({ ...row, rank: query && row.model === queryKey ? 0 : query && (row.model.startsWith(queryKey) || (queryPattern && queryPattern.test(row.model)) || patternCovers(row.model, queryKey)) ? 1 : capacities.length && !row.product.specs['容量'] ? 3 : 2 }))
       .sort((a, b) => a.rank - b.rank || a.product.id.localeCompare(b.product.id, 'en', { numeric: true }))
       .map(row => row.product);
   }
