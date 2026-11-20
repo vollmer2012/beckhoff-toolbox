@@ -5,9 +5,13 @@ import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const { validate } = require('../src/catalog.cjs');
 const { coverageBlock } = require('../src/coverage.cjs');
+const { catalogHash, loadEntries, validateEntries, publicMarkdown, maintainerMarkdown } = require('../src/changelog.cjs');
 const root = fileURLToPath(new URL('../', import.meta.url));
 const data = JSON.parse(await readFile(path.join(root, 'data/catalog.json'), 'utf8'));
 const errors = validate(data);
+const changelogPath = path.join(root, 'data/changelog.json');
+const entries = loadEntries(changelogPath);
+errors.push(...validateEntries(entries, data, catalogHash(path.join(root, 'data/catalog.json'))));
 if (errors.length) { console.error(errors.join('\n')); process.exit(1); }
 await mkdir(path.join(root, 'dist'), { recursive: true });
 for (const file of ['index.html', 'styles.css', 'app.js']) await copyFile(path.join(root, 'site', file), path.join(root, 'dist', file));
@@ -70,7 +74,11 @@ const el2Lines = ['# EL2xxx 收录清单', '', `资料更新：${data.updated_at
 for (const p of el2Products) el2Lines.push(`| ${esc(p.id)} | ${esc(p.subcategory || p.kind)} | ${esc(p.name)} | ${esc(Object.entries(p.specs).slice(0,6).map(([k,v]) => `${k}：${v}`).join('；'))} | ${esc(p.lifecycle)} | ${links(p.source_ids)} |`);
 await writeFile(path.join(root,'docs/EL2xxx收录清单.md'),el2Lines.join('\n')+'\n');
 await copyFile(path.join(root,'docs/EL2xxx收录清单.md'),path.join(root,'dist/EL2xxx收录清单.md'));
-await copyFile(path.join(root,'docs/更新记录.md'),path.join(root,'dist/更新记录.md'));
+await writeFile(path.join(root, 'docs/更新记录.md'), publicMarkdown(entries));
+await writeFile(path.join(root, 'docs/维护记录.md'), maintainerMarkdown(entries));
+await copyFile(path.join(root, 'docs/更新记录.md'), path.join(root, 'dist/更新记录.md'));
+await copyFile(path.join(root, 'docs/维护记录.md'), path.join(root, 'dist/维护记录.md'));
+await writeFile(path.join(root, 'dist/changelog.js'), 'window.MODEL_CHANGELOG = ' + JSON.stringify(entries.map(({ at, title, summary, records, sources, links }) => ({ at, title, summary, records, sources, links }))).replace(/</g, '\\u003c') + ';\n');
 const start = '<!-- catalog-coverage:start -->';
 const end = '<!-- catalog-coverage:end -->';
 const block = start + '\n' + coverageBlock(data) + '\n' + end;

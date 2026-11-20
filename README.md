@@ -23,7 +23,7 @@
 
 没有查到，通常只说明这份资料还没收录，不表示产品不存在或不兼容。型号规律不能用来推断附件是否兼容。需要补充或修正时，请[提交纠错](https://github.com/vollmer2012/beckhoff-toolbox/issues/new?title=%E5%9E%8B%E5%8F%B7%E8%B5%84%E6%96%99%E7%BA%A0%E9%94%99)。
 
-本地构建和字段说明见 [型号资料库](projects/Beckhoff-Model-Library/README.md)。
+本地构建和字段说明见 [型号资料库](projects/Beckhoff-Model-Library/README.md)。变更说明见 [更新记录](projects/Beckhoff-Model-Library/docs/更新记录.md)，维护者补充条目的步骤见 [维护记录](projects/Beckhoff-Model-Library/docs/维护记录.md)。
 
 ## 其他项目
 
