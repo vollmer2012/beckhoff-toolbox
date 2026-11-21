@@ -4,6 +4,6 @@ namespace BootScanner.Core;
 public static class AppInfo
 {
     public const string ProductName = "Boot 查看器";
-    public const string Version = "1.1.2";
+    public const string Version = "1.1.2-preview.1";
     public const string TitleWithVersion = ProductName + " " + Version;
 }

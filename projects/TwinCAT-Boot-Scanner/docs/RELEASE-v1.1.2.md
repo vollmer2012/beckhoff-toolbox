@@ -1,4 +1,4 @@
-# v1.1.2 · Public Preview · Windows x64
+# v1.1.2-preview.1 · Public Preview · Windows x64
 
 Boot Scanner（Boot 查看器）的首个公开预览版本。独立第三方离线工具，非Beckhoff官方产品；结果仅供参考。
 

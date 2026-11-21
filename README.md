@@ -33,7 +33,7 @@
 | [Beckhoff Finder](projects/Beckhoff-Finder/README.md) | 作者此前发布的 Windows 工具运行版，EXE 通过 Releases 分发 | V1.01 运行版已发布；用于跨网段快速查找beckhoff控制器 |
 | [TC3 授权响应文件查看工具](projects/TC3-License-Response-Viewer/README.md) | Windows EXE 运行版，产品元数据名称 TwinCAT_License_UI_Viewer | V1.0 运行版已发布；用于快速查看tc3授权响应文件的概括 |
 
-| [Boot Scanner · Boot 查看器](projects/TwinCAT-Boot-Scanner/README.md) | C# / .NET 8 / WinForms；离线只读查看部分 TwinCAT Boot 配置与符号 | [v1.1.2 公开预览](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/twincat-boot-scanner-v1.1.2) · [单 EXE 下载](https://github.com/vollmer2012/beckhoff-toolbox/releases/download/twincat-boot-scanner-v1.1.2/BootScanner.exe)；本项目目录采用 MIT，WSM 完整工程尚未解码 |
+| [Boot Scanner · Boot 查看器](projects/TwinCAT-Boot-Scanner/README.md) | C# / .NET 8 / WinForms；离线只读查看部分 TwinCAT Boot 配置与符号 | [v1.1.2-preview.1 公开预览](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/twincat-boot-scanner-v1.1.2-preview.1) · [单 EXE 下载](https://github.com/vollmer2012/beckhoff-toolbox/releases/download/twincat-boot-scanner-v1.1.2-preview.1/BootScanner.exe)；本项目目录采用 MIT，WSM 完整工程尚未解码 |
 
 各项目分别记录依赖、使用步骤、安全事项及兼容性。请先阅读对应项目 README；用户反馈的测试记录与维护者独立复测结果分别标明。
 

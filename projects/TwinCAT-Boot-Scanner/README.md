@@ -2,17 +2,17 @@
 
 独立第三方 Windows 工具，用于本地、离线、只读查看 TwinCAT Boot 配置中的可读信息。
 
-**当前版本：1.1.2 · 公开预览。** 本项目不是 Beckhoff 官方产品，不声明官方认证、授权或背书。解析支持不完整，结果仅供参考，生产操作前请用官方工具核实。详见 [免责声明](docs/DISCLAIMER.md)。
+**当前版本：1.1.2-preview.1 · 公开预览，非稳定版。** 本项目不是 Beckhoff 官方产品，不声明官方认证、授权或背书。解析支持不完整，结果仅供参考，生产操作前请用官方工具核实。详见 [免责声明](docs/DISCLAIMER.md)。
 
 Independent third-party Windows viewer for locally available TwinCAT Boot metadata. Offline and read-only. Partial format support; not a complete engineering-project recovery tool or an official Beckhoff product.
 
 ## 下载与运行
 
-**[下载单 EXE](https://github.com/vollmer2012/beckhoff-toolbox/releases/download/twincat-boot-scanner-v1.1.2/BootScanner.exe)** · [下载完整 ZIP](https://github.com/vollmer2012/beckhoff-toolbox/releases/download/twincat-boot-scanner-v1.1.2/BootScanner-1.1.2-win-x64.zip) · [版本页](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/twincat-boot-scanner-v1.1.2)
+**[下载单 EXE](https://github.com/vollmer2012/beckhoff-toolbox/releases/download/twincat-boot-scanner-v1.1.2-preview.1/BootScanner.exe)** · [下载完整 ZIP](https://github.com/vollmer2012/beckhoff-toolbox/releases/download/twincat-boot-scanner-v1.1.2-preview.1/BootScanner-1.1.2-preview.1-win-x64.zip) · [版本页](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/twincat-boot-scanner-v1.1.2-preview.1)
 
 MIT 许可只适用于本项目目录中有权按该协议授权的代码，不改变 toolbox 其他项目的授权。
 
-在 [Releases](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/twincat-boot-scanner-v1.1.2) 下载 Windows x64 发布包，解压后运行 `BootScanner.exe`。请保留随包的许可证和说明文件。
+在 [Releases](https://github.com/vollmer2012/beckhoff-toolbox/releases/tag/twincat-boot-scanner-v1.1.2-preview.1) 下载 Windows x64 发布包，解压后运行 `BootScanner.exe`。请保留随包的许可证和说明文件。
 
 - Windows 10/11 x64；自包含 EXE，无需另装 .NET。
 - 不需要 TwinCAT、ADS DLL 或 Visual Studio。

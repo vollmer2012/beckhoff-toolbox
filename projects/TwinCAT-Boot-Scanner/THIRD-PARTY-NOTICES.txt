@@ -1,4 +1,4 @@
-Boot Scanner 1.1.2 - third-party notices
+Boot Scanner 1.1.2-preview.1 - third-party notices
 
 Application code: MIT License, Copyright (c) 2026 vollmer2012. See LICENSE.
 

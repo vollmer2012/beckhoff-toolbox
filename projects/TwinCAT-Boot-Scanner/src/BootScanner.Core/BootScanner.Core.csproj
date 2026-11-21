@@ -7,7 +7,7 @@
     <RootNamespace>BootScanner.Core</RootNamespace>
     <LangVersion>latest</LangVersion>
     <AssemblyName>BootScanner.Core</AssemblyName>
-    <Version>1.1.2</Version>
+    <Version>1.1.2-preview.1</Version>
     <Product>Boot Scanner</Product>
     <Description>Read-only parsers for TwinCAT Boot CurrentConfig.xml and TMC/TMI symbol tables.</Description>
   </PropertyGroup>
