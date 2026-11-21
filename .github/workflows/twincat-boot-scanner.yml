@@ -1,0 +1,31 @@
+name: Boot Scanner Windows build
+on:
+  push:
+    paths:
+      - 'projects/TwinCAT-Boot-Scanner/**'
+      - '.github/workflows/twincat-boot-scanner.yml'
+  pull_request:
+    paths:
+      - 'projects/TwinCAT-Boot-Scanner/**'
+      - '.github/workflows/twincat-boot-scanner.yml'
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: windows-latest
+    defaults:
+      run:
+        working-directory: projects/TwinCAT-Boot-Scanner
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-dotnet@v6
+        with:
+          dotnet-version: 8.0.x
+      - name: Restore
+        run: dotnet restore BootScanner.sln
+      - name: Test
+        run: dotnet test tests/BootScanner.Tests/BootScanner.Tests.csproj -c Release --no-restore
+      - name: Build
+        run: dotnet build BootScanner.sln -c Release --no-restore

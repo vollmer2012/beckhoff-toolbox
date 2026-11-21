@@ -1,0 +1,40 @@
+# Build
+bin/
+obj/
+publish/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+*.DotSettings.user
+
+# Test / coverage
+TestResults/
+coverage/
+*.coverage
+*.received.*
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Project assets are intentionally excluded from this public repository.
+samples/
+Fixtures/
+**/Fixtures/
+*.tsm
+*.wsm
+*.tpy
+*.tmc
+*.tmi
+*.wbp
+*.wb~
+*.bootdata
+*.bootdata-old
+CurrentConfig*.xml
+CurrentConfigBinary*.bin
+BootScanner-error.txt
+*.csv

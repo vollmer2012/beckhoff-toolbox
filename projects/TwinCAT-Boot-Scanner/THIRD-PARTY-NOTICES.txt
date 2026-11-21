@@ -1,0 +1,31 @@
+Boot Scanner 1.1.2 - third-party notices
+
+Application code: MIT License, Copyright (c) 2026 vollmer2012. See LICENSE.
+
+Compound file reading uses Windows Structured Storage APIs provided by the
+operating system. OpenMcdf is not a dependency of this public source tree
+and is not distributed with the application.
+
+Microsoft .NET 8 runtime and System.Text.Encoding.CodePages 8.0.0
+Copyright (c) .NET Foundation and Contributors. MIT license.
+License: https://github.com/dotnet/runtime/blob/v8.0.34/LICENSE.TXT
+Third-party notices:
+https://github.com/dotnet/runtime/blob/v8.0.34/THIRD-PARTY-NOTICES.TXT
+
+Local copies from the actual runtime and package distributions:
+licenses/DOTNET-LICENSE.txt
+licenses/DOTNET-THIRD-PARTY-NOTICES.txt
+licenses/WINDOWSDESKTOP-LICENSE.txt
+licenses/CODEPAGES-LICENSE.txt
+licenses/CODEPAGES-THIRD-PARTY-NOTICES.txt
+
+Build/test-only NuGet dependencies retain their respective licenses and are
+not included in the executable. Refer to each package's NuGet metadata.
+
+Beckhoff, TwinCAT and EtherCAT are trademarks of their respective owners.
+This independent project is not an official Beckhoff product and does not
+claim certification, endorsement or authorization by Beckhoff.
+
+The public repository and release contain no Boot project examples or
+customer engineering files. No vendor logos, SDKs, manuals or sample assets
+are distributed.
