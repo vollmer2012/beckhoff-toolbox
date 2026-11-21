@@ -21,6 +21,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\LICENSE" LogicalName="BootScanner.Licenses.Application.txt" />
+    <EmbeddedResource Include="..\..\THIRD-PARTY-NOTICES.txt" LogicalName="BootScanner.Licenses.Notices.txt" />
+    <EmbeddedResource Include="..\..\licenses\*.txt" LogicalName="BootScanner.Licenses.%(Filename)%(Extension)" />
     <ProjectReference Include="..\BootScanner.Core\BootScanner.Core.csproj" />
     <None Include="..\..\THIRD-PARTY-NOTICES.txt" Link="THIRD-PARTY-NOTICES.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
     <None Include="..\..\LICENSE" Link="LICENSE" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />

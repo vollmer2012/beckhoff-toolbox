@@ -213,10 +213,41 @@ public sealed class MainForm : Form
             BackColor = Color.White, Font = UiTheme.UiFont
         };
         var close = new Button { Text = "关闭", Dock = DockStyle.Bottom, Height = 32, DialogResult = DialogResult.Cancel };
+        var licenses = new Button { Text = "查看软件许可与第三方声明（已内置）", Dock = DockStyle.Bottom, Height = 32 };
+        licenses.Click += (_, _) => ShowLicenseNotices(dialog);
         dialog.Controls.Add(text);
+        dialog.Controls.Add(licenses);
         dialog.Controls.Add(close);
         dialog.CancelButton = close;
         dialog.ShowDialog(this);
+    }
+
+    private static void ShowLicenseNotices(IWin32Window owner)
+    {
+        var assembly = typeof(MainForm).Assembly;
+        var parts = new List<string>();
+        foreach (var name in assembly.GetManifestResourceNames().Where(n => n.StartsWith("BootScanner.Licenses.", StringComparison.Ordinal)).OrderBy(n => n, StringComparer.Ordinal))
+        {
+            using var stream = assembly.GetManifestResourceStream(name);
+            if (stream is null) continue;
+            using var reader = new StreamReader(stream);
+            parts.Add(name + Environment.NewLine + reader.ReadToEnd());
+        }
+        using var dialog = new Form
+        {
+            Text = "软件许可与第三方声明", Size = new Size(800, 650), MinimumSize = new Size(500, 400),
+            StartPosition = FormStartPosition.CenterParent, ShowInTaskbar = false, Padding = new Padding(12)
+        };
+        var close = new Button { Text = "关闭", Dock = DockStyle.Bottom, Height = 32, DialogResult = DialogResult.Cancel };
+        dialog.Controls.Add(new TextBox
+        {
+            Dock = DockStyle.Fill, Multiline = true, ReadOnly = true, ScrollBars = ScrollBars.Both,
+            WordWrap = false, Font = UiTheme.UiFont, BackColor = Color.White,
+            Text = string.Join(Environment.NewLine + Environment.NewLine, parts)
+        });
+        dialog.Controls.Add(close);
+        dialog.CancelButton = close;
+        dialog.ShowDialog(owner);
     }
 
     private static void LayoutToolbar(Panel toolbar, Button open, Button export, TextBox path, Label hint)
