@@ -74,6 +74,11 @@ const el2Lines = ['# EL2xxx 收录清单', '', `资料更新：${data.updated_at
 for (const p of el2Products) el2Lines.push(`| ${esc(p.id)} | ${esc(p.subcategory || p.kind)} | ${esc(p.name)} | ${esc(Object.entries(p.specs).slice(0,6).map(([k,v]) => `${k}：${v}`).join('；'))} | ${esc(p.lifecycle)} | ${links(p.source_ids)} |`);
 await writeFile(path.join(root,'docs/EL2xxx收录清单.md'),el2Lines.join('\n')+'\n');
 await copyFile(path.join(root,'docs/EL2xxx收录清单.md'),path.join(root,'dist/EL2xxx收录清单.md'));
+const el3Products = data.products.filter(p => p.family === 'EL3xxx').sort((a,b) => a.id.localeCompare(b.id,'en',{numeric:true}));
+const el3Lines = ['# EL3xxx 收录清单', '', `资料更新：${data.updated_at || data.updated_on}。单条来源核对日期见记录。`, '', '本批以官网 EL/ED3xxx 表格总览明确链接的 117 个 EL3xxx 具体产品页为范围，不包含 ED、ES、ELM、EM、ELX，也不代表全历史型号或全部订货后缀。', '', '模拟量量程、精度、接线和滤波必须核对具体型号手册；TwinSAFE SC 条目不构成安全设计或认证验证。产品公告状态不等于已经正常供货。', '', '| 型号 | 类型 | 名称 | 关键规格 | 产品状态 | 来源 |', '| --- | --- | --- | --- | --- | --- |'];
+for (const p of el3Products) el3Lines.push(`| ${esc(p.id)} | ${esc(p.subcategory || p.kind)} | ${esc(p.name)} | ${esc(Object.entries(p.specs).slice(0,7).map(([k,v]) => `${k}：${v}`).join('；'))} | ${esc(p.lifecycle)} | ${links(p.source_ids)} |`);
+await writeFile(path.join(root,'docs/EL3xxx收录清单.md'),el3Lines.join('\n')+'\n');
+await copyFile(path.join(root,'docs/EL3xxx收录清单.md'),path.join(root,'dist/EL3xxx收录清单.md'));
 await writeFile(path.join(root, 'docs/更新记录.md'), publicMarkdown(entries));
 await writeFile(path.join(root, 'docs/维护记录.md'), maintainerMarkdown(entries));
 await copyFile(path.join(root, 'docs/更新记录.md'), path.join(root, 'dist/更新记录.md'));

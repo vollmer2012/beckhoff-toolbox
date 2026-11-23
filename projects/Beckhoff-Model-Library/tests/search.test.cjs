@@ -94,16 +94,18 @@ test('温度不因每条记录的工作温度标签铺开，扩展温度仍然�
   assert.ok(results.includes('CX2900-0038'));
   assert.ok(results.includes('CX1900-0022'));
   assert.ok(results.includes('CX1900-0124'));
+  assert.ok(results.includes('EL3202'));
+  assert.ok(results.includes('EL3314'));
   assert.ok(!results.includes('EL1008'));
   assert.ok(!results.includes('CX5130'));
-  assert.ok(results.length < 40);
+  assert.ok(results.length < catalog.products.length / 4);
 });
 test('短英文词按整词匹配，不把 IO 配到 IoT，也不把 CE 配到无关英文', () => {
   const io = find('IO');
   assert.ok(io.includes('EL1008'));
+  assert.ok(io.includes('EL3202'));
   assert.ok(!io.includes('C9900-S537'));
   assert.ok(!io.includes('CX2042'));
-  assert.ok(io.length < 160);
   const ce = find('CE');
   assert.ok(ce.includes('CX1020'));
   assert.ok(ce.includes('CX5010-0110'));

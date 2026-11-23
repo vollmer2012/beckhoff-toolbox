@@ -45,7 +45,8 @@
   const controllerCount = c.products.filter(p => p.id.startsWith('CX') && p.kind === '基础型号').length;
   const el1Count = c.products.filter(p => p.family === 'EL1xxx').length;
   const el2Count = c.products.filter(p => p.family === 'EL2xxx').length;
-  $('catalog-count').textContent = `${controllerCount} 个 CX 控制器 · ${el1Count} 条 EL1xxx · ${el2Count} 条 EL2xxx · ${c.products.length} 条记录 · ${c.sources.length} 个来源`;
+  const el3Count = c.products.filter(p => p.family === 'EL3xxx').length;
+  $('catalog-count').textContent = `${controllerCount} 个 CX 控制器 · ${el1Count} 条 EL1xxx · ${el2Count} 条 EL2xxx · ${el3Count} 条 EL3xxx · ${c.products.length} 条记录 · ${c.sources.length} 个来源`;
   $('issue-count').textContent = c.issues.length;
   $('query').value = state.q;
   function syncURL() {

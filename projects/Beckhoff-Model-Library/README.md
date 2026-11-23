@@ -7,8 +7,8 @@
 ![查询 CX5130 的结果。页面标明非官方资料索引](docs/search-preview.png)
 
 <!-- catalog-coverage:start -->
-已收录 622 条记录、478 个官方来源：工控机 C 系列 93 条，CX 控制器基础型号 49 个，控制面板与面板式电脑 CP 系列 117 条，存储介质 44 条，操作系统 21 条，EL1xxx 62 条，EL2xxx 71 条。其中 284 条是官网产品页简录，规格未逐项摘录。
-尚未覆盖运动控制、伺服、电机、线缆和端子全系列，也不包含 EL3xxx、ED、ES、ELM、EM、ELX、BC/BX。简录只保证能按型号找到官方产品页，不是完整规格，也不等于实机验证。型号规律不能用来判断附件是否兼容。官网核对不等于实机验证。
+已收录 738 条记录、594 个官方来源：工控机 C 系列 93 条，CX 控制器基础型号 49 个，控制面板与面板式电脑 CP 系列 117 条，存储介质 44 条，操作系统 21 条，EL1xxx 62 条，EL2xxx 71 条，EL3xxx 117 条。其中 284 条是官网产品页简录，规格未逐项摘录。
+尚未覆盖运动控制、伺服、电机、线缆和端子全系列，也不包含 EL4xxx–EL9xxx、ED、ES、ELM、EM、ELX、BC/BX。简录只保证能按型号找到官方产品页，不是完整规格，也不等于实机验证。型号规律不能用来判断附件是否兼容。官网核对不等于实机验证。
 <!-- catalog-coverage:end -->
 
 可以先试这三条：[CX5130](https://vollmer2012.github.io/beckhoff-toolbox/?q=CX5130)、[CFast 40GB](https://vollmer2012.github.io/beckhoff-toolbox/?q=CFast%2040GB)、[备用电池](https://vollmer2012.github.io/beckhoff-toolbox/?q=%E5%A4%87%E7%94%A8%E7%94%B5%E6%B1%A0)。
@@ -17,7 +17,7 @@
 
 可维护的官方选型资料索引：型号与中文关键词搜索、分类/主机筛选、规格简介、配套条件、官方来源及资料差异。
 
-[更新记录](docs/更新记录.md) · [维护记录](docs/维护记录.md) · [EL1xxx 清单](docs/EL1xxx收录清单.md) · [EL2xxx 清单](docs/EL2xxx收录清单.md)。更新时间以记录里的北京时间为准。
+[更新记录](docs/更新记录.md) · [维护记录](docs/维护记录.md) · [EL1xxx 清单](docs/EL1xxx收录清单.md) · [EL2xxx 清单](docs/EL2xxx收录清单.md) · [EL3xxx 清单](docs/EL3xxx收录清单.md)。更新时间以记录里的北京时间为准。
 
 **打开查询网页：[dist/index.html](dist/index.html)**。本地浏览器可直接打开该文件；GitHub 页面中点击 HTML 文件只会显示源码，独立网页需要托管。
 
@@ -25,6 +25,7 @@
 - [控制器收录清单](docs/控制器收录清单.md)
 - [EL1xxx 收录清单](docs/EL1xxx收录清单.md)
 - [EL2xxx 收录清单](docs/EL2xxx收录清单.md)
+- [EL3xxx 收录清单](docs/EL3xxx收录清单.md)
 - [维护指南](docs/维护指南.md)
 - [唯一维护数据](data/catalog.json)
 - [实施方案](docs/实施方案.md)
